@@ -28,10 +28,10 @@ easy to read for a newbie. And then pull a request to start. :tada:
 
 ### Contributing
 
-- Fork the project
-- Add your article
-- Submit a pull request explaining in a comment what your article is about
-- Mission accomplished! :tada:
+1) Fork the project
+2) Add your article
+3) Follow the rules given [here](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/CONTRIBUTING.md)
+4) Mission Accomplished! :tada:
 
 ### FAQs
 
