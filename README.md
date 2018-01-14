@@ -26,7 +26,7 @@ Anyone, literally **anyone** can contribute to the repository
 
 ### How?
 
-It's quite simple. Just write a article in MarkDown format about a topic you know; the article should be between 100-150 words and 
+It's quite simple. Just write an article in MarkDown format about a topic you know; the article should be between 100-150 words and 
 easy to read for a newbie. And then pull a request to start. :tada:
 
 ### Contributing
@@ -44,7 +44,7 @@ A: No. If it is *absolutely essential* you may talk about it to the owner and he
 
 Q: I don't know a language. Can I contribute?
 
-A: Absolutely. You don't require knowledge of any particular language. You but must know about the article you are contributing.
+A: Absolutely. You don't require knowledge of any particular language. However, you must know about the article you are contributing.
 
 ### License
 
