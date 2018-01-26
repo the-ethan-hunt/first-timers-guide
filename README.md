@@ -12,29 +12,29 @@
 
 ### Contents
 
-- [What](#what)
-- [How](#how)
-- [Contributing](#contributing)
+- [What is it?](#what)
+- [How to contribute](#how)
+- [Steps for contributing](#contributing)
 - [FAQs](#faqs)
 - [License](#license)
 
-### What?
+### What is it?
 
-First-timers guide is a guide to encourage more people to venture into open-source. The word guide can be a little misunderstood
-here; it means articles written in MarkDown format about various topics in Computer Science ranging from time complexity to Word2Vec.
-Anyone, literally **anyone** can contribute to the repository
+This first-timers guide is meant to encourage more people to explore and contribute to open-source. This guide consists of a multitude of user-contributed articles written in MarkDown format about various topics in computer science ranging from time complexity to Word2Vec.
+Anyone – literally **anyone** – can contribute to this repository.
 
-### How?
+### How to contribute
 
-It's quite simple. Just write an article in MarkDown format about a topic you know; the article should be between 100-150 words and 
-easy to read for a newbie. And then pull a request to start. :tada:
+It's quite simple. Just write an article in MarkDown format about a topic you know; the article should be between 100-150 words and
+easy to read for a newbie. And then submit a pull request with your article added. :tada:
 
 ### Contributing
 
 1) Fork the project
-2) Add your article
-3) Follow the rules given [here](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/CONTRIBUTING.md)
-4) Mission Accomplished! :tada:
+2) Add your article to your forked project
+3) Make sure you follow the rules given [here](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/CONTRIBUTING.md)
+4) Submit a pull request (PR) to this repository
+5) Mission Accomplished! :tada:
 
 ### FAQs
 
@@ -49,7 +49,3 @@ A: Absolutely. You don't require knowledge of any particular language. However, 
 ### License
 
 The MIT License 2017 - [Dhruv Apte](http://github.com/the-ethan-hunt/).
-
-
-
-
