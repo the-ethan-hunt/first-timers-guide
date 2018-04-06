@@ -1,0 +1,22 @@
+Hello
+
+The code smell is important for the development cycle. 
+
+First step, you have to install a plugin to smell your code :
+* SonarQube
+* Intellij has a code smell in the box
+* DECOR
+* inFusion
+* etc ...
+
+It can be useful for some things such as :
+* See the purcentage of your covered code by your units tests.
+* See the duplicate code.
+* If your class or your method is too big,  the plugin warns you. 
+* It verify where are variables that can be null or unused, or wrong block declaration.
+* You can do a "hook" on git to verify the purcentage of your coverage. If it bad, you can't push.
+* The code is more readable and clean, for open-source projects it's important.
+
+In enterprise, it's an added value to add code smell review in your projects.
+
+I encourage you to adopt code smelling :)
