@@ -2,7 +2,7 @@
 
 ## What is it ?
 
-Ansible is It Automation software that allows to automated deployment tasks ( similar as pupet ) . Powered by RedHat, ansible is realy simple to use, cause the language is based on YML.
+Ansible is an Automation software that allows to automate deployments tasks ( similar as pupet ). Powered by RedHat, ansible is realy simple to use, cause the language is based on YML language.
 You can create variable and seperate tasks at each execution 
 
 ## Exemples - Here a php7.0 deployment tasks on a server 
