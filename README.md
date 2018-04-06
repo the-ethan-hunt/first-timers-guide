@@ -40,8 +40,9 @@ easy to read for a newbie. And then pull a request to start. :tada:
 ### Collaboration
 
 First-timers-guide will be thrilled to participate or collaborate with any society or group that promotes open-source anywhere in the 
-world. We are currently(as of February 2018) collaborating with [Cluster Innovation Centre](https://www.ducic.ac.in/) for its Month of 
-Code program. And we would be really happy to help you guys- anything for open-source!
+world. And we would be really happy to help you guys- anything for open-source!
+- We collaborated with [Cluster Innovation Centre](https://www.ducic.ac.in/) for its Month of 
+Code program in February 2018
 
 For collaborating drop us a mail at dhruvgirishapte[at]gmail[dot]com or make an issue in this repository.
 
