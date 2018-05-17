@@ -23,7 +23,7 @@ While both stemming and lemmatization share the goal of “normalizing” words 
 **Stemming:** heuristically removes the affixes of a word, to get to its stem (root). The end result is the non-changing portion of a word is returned. For example, the stem of amusing, amusement, and amused would be amus.
 
 
-Algorithms used for stemming include lookup tables and suffix-stripping algorithms.
+Algorithms used for stemming include lookup tables and suffix-stripping algorithms. The most common algorithm used for stemming is the Porter stemming algorithm. 
 
 
 
