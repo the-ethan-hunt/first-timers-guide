@@ -1,6 +1,6 @@
 # GitHub
 
-[GitHub](https://github.com/) is the most popular hosting and version control system for source code and [Git](/Version_Control/Git.md) repositories online. In addition to features of Git such as branching and merging, GitHub also provides its own unique features. Some of these features include:
+[GitHub](https://github.com/) is the most popular hosting and version control system for source code and [Git](/guides/Version_Control/Git.md) repositories online. In addition to features of Git such as branching and merging, GitHub also provides its own unique features. Some of these features include:
 * Issue Tracking
 * Documentation and Wikis
 * Detailed Code Reviews and Commit History
