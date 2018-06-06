@@ -4,7 +4,7 @@ But, of course there are some contributing rules: Like how filling out the comme
 The `CONTRIBUTING.md` file helps you out.
 
 Big projects have a big set of rules & regulations over how to contribute. But, since this project is for a first-timer, 
-we will have as less rules as possible. :pizza:
+we will have as few rules as possible. :pizza:
 
 - Write your guide only in Markdown format.
 - Place your guide in an appropriate folder. Generally, the name of the folder can be taken from the label tag of the respective 
