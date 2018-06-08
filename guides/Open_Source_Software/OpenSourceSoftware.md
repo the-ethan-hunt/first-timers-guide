@@ -9,6 +9,6 @@ The OSI approved licenses also have [additional requirements](https://opensource
 * Rules for the distribution of license, as well as rules for technological neutrality and for preventing licensing restriction for specific products or systems 
 
 The three most popular open source licenses are:
-1. [MIT License](https://opensource.org/licenses/MIT) (the license selected by First-Timers-Only)
-2. [GNU General Public License (GPL 2.0)](https://opensource.org/licenses/GPL-2.0)
-3. [Apache License 2.0](https://opensource.org/licenses/Apache-2.0)
+**1.** [MIT License](https://opensource.org/licenses/MIT) (the license selected by First-Timers-Only)
+**2.** [GNU General Public License (GPL 2.0)](https://opensource.org/licenses/GPL-2.0)
+**3.** [Apache License 2.0](https://opensource.org/licenses/Apache-2.0)
