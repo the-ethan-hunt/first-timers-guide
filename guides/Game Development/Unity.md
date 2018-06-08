@@ -1,8 +1,7 @@
 #Unity
 ![alt text](https://codomo.com.sg/wp-content/uploads/2016/09/unity-logo-100571261-large-180x180.png "Unity Logo")
 
-
-Unity is a popular 2D and 3D game development engine that offers both free and paid models. It is used in both independent and large scale game development.
+Unity is a cross-platform game engine developed by Unity Technologies, which is primarily used to develop both three-dimensional and two-dimensional video games and simulations for computers, consoles, and mobile devices. First announced only for OS X at Apple's Worldwide Developers Conference in 2005, it has since been extended to target 27 platforms.Six major versions of Unity have been released. For a list of games made with Unity, visit List of Unity games.
 
 ##Interface
 Unity has a customizable workspace that allows users to move windows around. The GUI is user friendly and utilizes graphical icons in addition to text to represent core functions. Key features include a live viewport and real time game preview without needing to build the entire project.
