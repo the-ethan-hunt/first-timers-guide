@@ -1,5 +1,5 @@
 # Unity
-![alt text](https://codomo.com.sg/wp-content/uploads/2016/09/unity-logo-100571261-large-180x180.png "Unity Logo")
+![alt text](https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png)
 
 
 Unity is a popular 2D and 3D game development engine that offers both free and paid models. It is used in both independent and large scale game development.
