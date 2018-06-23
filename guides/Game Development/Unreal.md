@@ -1,6 +1,6 @@
 # Unreal
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg)
+![alt text](http://www.trixelcg.com/wp-content/uploads/2016/10/Unreal-Logo.png)
 
 
 Unreal is a popular 2D and 3D game development engine that offers both free and paid models. It is used in both independent and large scale game development.
