@@ -37,6 +37,8 @@ easy to read for a newbie. And then pull a request to start. :tada:
 3) Follow the rules given [here](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/CONTRIBUTING.md)
 4) Mission Accomplished! :tada:
 
+To see how a perfect pull request is made, see [this](https://github.com/the-ethan-hunt/first-timers-guide/pull/66) pull request.
+
 ### Collaboration
 
 First-timers-guide will be thrilled to participate or collaborate with any society or group that promotes open-source anywhere in the 
