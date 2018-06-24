@@ -31,10 +31,10 @@ Suppose you construct a proposal like so:-
 
 Evidently, this attempted solution fails because it allows the system to reach a [deadlock][5] state, in which no progress is possible. You can improve upon it by including a timer but that too suffers from [livelock][6] & [starvation][7]!
 
-####Solutions
+#### Solutions
 
-**Resource Hierarchy Solution**, originally proposed by Dijkstra ([sample code][8]).
-**Chandy/Misra Solution**, proposed by K. Mani Chandy & J. Misra in 1984.
+- **Resource Hierarchy Solution**, originally proposed by Dijkstra ([sample code][8]).
+- **Chandy/Misra Solution**, proposed by K. Mani Chandy & J. Misra in 1984.
 
 [1]: https://en.wikipedia.org/wiki/Concurrency_(computer_science)
 [2]: https://en.wikipedia.org/wiki/Synchronization_(computer_science)
