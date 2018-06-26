@@ -4,7 +4,7 @@ Color theory is a combination of science and art of color. It explains how huma
 
 # RGB COlOR MODEL
 
-This model uses the primary colors red green and blue in different proportions to create all the necessary colors .When you mix red,green and blue colors to their full extent i.e 100% the resultant color is white and when they are mixed to their lowest degree the resultant color is black. So basically you start with black and as you add lights of various colors you get white. Thus RGB color model is also called as additive color model. Colors are much more vibrant in case of rgb as compared to cmyk.
+This model uses the primary colors red,green and blue in different proportions to create all the necessary colors.When you mix red,green and blue colors to their full extent i.e 100% the resultant color is white and when they are mixed to their lowest degree the resultant color is black. So basically you start with black and as you add lights of various colors you get white. Thus RGB color model is also called as additive color model. Colors are much more vibrant in case of rgb as compared to cmyk.
 
 # CMYK COLOR MODEL
 
@@ -12,7 +12,7 @@ This model uses the primary colors red green and blue in different proportions t
 
 # HEX CODE 
 
-colors can also be represented using hexadecimal values also called as hex code.The code starts with a hash sign (#) and is followed by six hex values or three hex value pairs for example #AFD645. You can get hex codes for various colors [here]("https://htmlcolorcodes.com/"). Hex codes are generally used for html pages.
+Colors can also be represented using hexadecimal values also called as hex code.The code starts with a hash sign (#) and is followed by six hex values or three hex value pairs for example #AFD645. You can get hex codes for various colors [here]("https://htmlcolorcodes.com/"). Hex codes are generally used for html pages.
 
 # COLOR WHEEL
 
@@ -22,7 +22,7 @@ A color wheel primarily consists of 6 parts. There are three primary colors red,
 - Blue  +   Yellow   = Green  (thus green goes between blue and yellow in the color wheel)
 - Blue  +   Red      = Purple (thus purple goes between blue and red in the color wheel)
 
-thus each primary color has a secondray color to complement it and as explained above  they  are represented across each other on the color wheel.
+thus each primary color has a secondray color to complement it and as explained above they are represented across each other on the color wheel.
 
 Colors in the upper part of the wheel are called as warm colors (red,orange,yellow) and can be used to represent sun or fire similarly  colors in the lower part of the wheel are called as cool colors (blue,green,purple) 
 
