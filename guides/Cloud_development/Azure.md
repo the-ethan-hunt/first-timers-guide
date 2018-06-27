@@ -6,6 +6,7 @@ Azure was first released in February 1, 2010 as “Windows Azure” And later on
 Microsoft Azure is reliable and secure. It is works on Virtualization technology, which allows it to use many virtual machines run at the same time.
 
 Azure provides a wide range of cloud services. Some of them are listed below: -
+
   •	Storage Services
   
   •	Analytics
