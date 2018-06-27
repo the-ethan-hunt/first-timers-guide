@@ -7,9 +7,13 @@ Microsoft Azure is reliable and secure. It is works on Virtualization technology
 
 Azure provides a wide range of cloud services. Some of them are listed below: -
   •	Storage Services
+  
   •	Analytics
+  
   •	Networking
+  
   •	Machine Learning
+  
   •	IoT
 
 Because of it’s features like - Flexibility, cost, applications, disaster recovery many companies like 3M, BMW, and GE are moving their workloads to Azure.
