@@ -1,5 +1,5 @@
 # Regression
-Towards **Machine Lerning** and **Data Science** *Regression* is the first topic to be ~~learned~~ *Mastered* . In the following we will try to introduce you about Regression and its basic types(there are many regression techniques but we cover few Important only):
+Towards **Machine Learning** and **Data Science** *Regression* is the first topic to be ~~learned~~ *Mastered* . In the following we will try to introduce you about Regression and its basic types:
 #### What is Regression?
 Regression is basically a statistical approach to find the relationship between variables. In machine learning, this is used to predict the outcome of an event based on the relationship between variables obtained from the data-set.
 More precisely:
@@ -25,6 +25,8 @@ In this type the Best fit line is not a straight line, It is a curve that fit th
 ##### Logistic Regression
 Logistic regression is used to find the probability of event=Success and event=Failure. We should use logistic regression when the dependent variable is binary (0/ 1, True/ False, Yes/ No) in nature. Here the value of Y ranges from 0 to 1.
 
-This is the basic Introduction of Regression!!
-###### Thank You
+##### Stepwise Regression
+This form of regression is used when we deal with multiple independent variables. In this technique, the selection of independent variables is done with the help of an automatic process, which involve no human intervention.
+The aim of this technique is to maximize the prediction power with minimum number of independent variables. It is one of the method to handle higher dimension data set.
+
 
