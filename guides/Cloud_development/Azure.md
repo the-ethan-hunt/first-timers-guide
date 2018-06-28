@@ -18,3 +18,14 @@ Azure provides a wide range of cloud services. Some of them are listed below: -
   •	IoT
 
 Because of it’s features like - Flexibility, cost, applications, disaster recovery many companies like 3M, BMW, and GE are moving their workloads to Azure.
+
+### Azure Account Registration
+1. Visit https://azure.microsoft.com/en-us/
+1. Click on Free Account Link
+1. Click Start Free
+1. If you don't have a microsoft account, then create one
+1. Enter your details, it will require Mobile Verification and a credit card.
+1. To open Azure DashBoard visit https://portal.azure.com/
+
+You will get $200 in a free account for 30 days. You can use these credits to run services.
+Later you can purchase more.
