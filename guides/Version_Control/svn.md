@@ -109,6 +109,3 @@ Let's compare `git` commands to svn `svn` commands
 | `git pull`                  | `svn update`
 | `git status`                | `svn status`  
 | `git log`                   | `svn log`
-
-___
-###### written by [Abdus](https://abdusdev.me)
