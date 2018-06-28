@@ -18,4 +18,4 @@ This is an example of the BandAid AntiPattern. The developer applies the quickes
 [https://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html](https://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html)
 
 
-Please feel free to add to the resource list if you have more to share.
+Please feel free to add to the resource list if you have more resources to share.
