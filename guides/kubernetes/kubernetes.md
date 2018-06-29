@@ -1,6 +1,6 @@
 # Kubernetes
 
-Kubernetes(also written as K8s) is an open source system for automatic,scaling and managemnt of [containerized applications](https://searchitoperations.techtarget.com/definition/application-containerization-app-containerization).It is the most popular tool among all currently present which is used mostly by all the major giants of the industry including Google who actually founded it,Amazon and Microsoft etc.
+Kubernetes(also written as K8s) is an open source system for automatic,scaling and management of [containers applications](https://searchitoperations.techtarget.com/definition/application-containerization-app-containerization).It is the most popular tool among all currently present which is used mostly by all the major giants of the industry including Google who actually founded it,Amazon and Microsoft etc.
 
 The Github repository of kubernates project can be visited from [here](https://github.com/kubernetes/kubernetes)
 
@@ -8,9 +8,9 @@ Before knowing it further you must be aware of what actually a docker is,what ar
 
 ## Why kubernetes ?
 
-As i mentioned that kubernates is a product of google which was released in July 2015 after a decade and half year effort of google who was earlier facing with its own internal Borg system which had certain drawbacks.So they thought of creating something new which can be standarized which can be used by all and the result is kubernetes.
+As i mentioned that kubernetes is a product of Google which was released in July 2015 after a decade and a half years effort of Google who was earlier facing with its own internal Borg system which had certain drawbacks.So they thought of creating something new which can be standardized and can be used by all and the result was kubernetes.
 
-If you are aware of [docker compose](https://docs.docker.com/compose/) then you might also be aware that docker compose can't be put into production.It is a config file which is helpful in running all containers together but suppose that if it is used into production and if any container stops working (crashes for any reason) then the whole application stops and it becomes a tedious task to restart.There were few other problems which can't be solved by docker compose  such as maintaing logs,scaling,monitoring etc
+If you are aware of [docker compose](https://docs.docker.com/compose/) then you might also be aware that docker compose can't be put into production.It is a config file which is helpful in running all containers together but suppose that if it is used in production and if any container stops working (crashes for any reason) in middle then the whole application stops and it becomes a tedious task to restart.There were few other problems which can't be solved by docker compose  such as maintaining logs,scaling,monitoring etc
 
 ## Need of Orchestration Engine 
 
@@ -29,7 +29,7 @@ kubernetes provides an infrastructure to build a truly docker centric applicatio
 
 These can be seen as
 
-* Portable --> It is easy to migrate from one cloud to another by just changing the kubernates configuration so no need to write complete deoloyment setup again
+* Portable --> It is easy to migrate from one cloud to another by just changing the kubernetes configuration so no need to write complete deployment setup again
 *  Extensible --> It is modular pluggable ,hookable and composable
 * Self healing --> Auto placement, auto restart and auto scaling.If any container fails it tries to restart it so it goes again into production
 
@@ -42,7 +42,7 @@ brew install kubectl
 It is easy if you use Google cloud CLI because it comes with kubectl by default which is an API to run it
 
 You will also need minikube if you want to set up locally.
-For more details for intallation on various platforms you can visit installation page docs [here](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
+For more details on intallation on various platforms you can visit installation page docs [here](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
 
 ## A little about Architecture
 
