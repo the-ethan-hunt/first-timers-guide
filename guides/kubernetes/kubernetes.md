@@ -1,14 +1,14 @@
 # Kubernetes
 
-Kubernetes(also written as K8s) is an open source system for automatic,scaling and management of [containers applications](https://searchitoperations.techtarget.com/definition/application-containerization-app-containerization).It is the most popular tool among all currently present which is used mostly by all the major giants of the industry including Google who actually founded it,Amazon and Microsoft etc.
+Kubernetes(also written as K8s) is an open source system for automatic,scaling and management of [containerized applications](https://searchitoperations.techtarget.com/definition/application-containerization-app-containerization).It is the most popular tool among all currently present which is used mostly by all the major giants of the industry including Google who actually founded it,Amazon and Microsoft etc.
 
-The Github repository of kubernates project can be visited from [here](https://github.com/kubernetes/kubernetes)
+The Github repository of kubernetes project can be visited from [here](https://github.com/kubernetes/kubernetes)
 
 Before knowing it further you must be aware of what actually a docker is,what are containers and containerized applications. 
 
 ## Why kubernetes ?
 
-As i mentioned that kubernetes is a product of Google which was released in July 2015 after a decade and a half years effort of Google who was earlier facing with its own internal Borg system which had certain drawbacks.So they thought of creating something new which can be standardized and can be used by all and the result was kubernetes.
+As i mentioned that kubernetes is a product of Google which was released in July 2015 after a decade and a half year long efforts by the team who were earlier facing difficulties with its own internal Borg system which had certain drawbacks.So they thought of creating something new which can be standardized and can be used by all and the result was kubernetes.
 
 If you are aware of [docker compose](https://docs.docker.com/compose/) then you might also be aware that docker compose can't be put into production.It is a config file which is helpful in running all containers together but suppose that if it is used in production and if any container stops working (crashes for any reason) in middle then the whole application stops and it becomes a tedious task to restart.There were few other problems which can't be solved by docker compose  such as maintaining logs,scaling,monitoring etc
 
