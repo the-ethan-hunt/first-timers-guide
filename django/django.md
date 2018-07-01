@@ -6,7 +6,7 @@ In order to write web applications in python directly basic requirements include
 3.SQL Interface<br>
 4.Template<br><br>
 
-On the other hand Django includes all of the above mention features hence it becomes easy for one to write web application.One can focus on the designing part and writing of the web application without taking care of the above features.Various sites that use django includes pinterest Public Broadcasting Service, Instagram, Mozilla, The Washington Times, Disqus, Bitbucket and Nextdoor.<br><br>
+On the other hand Django includes all of the above mention features hence it becomes easy for one to write web application.One can focus on the designing part and writing of the web application without taking care of the above features.Various sites that use django includes Pinterest Public Broadcasting Service, Instagram, Mozilla, The Washington Times, Disqus, Bitbucket and Nextdoor.<br><br>
 
 Django is fast,fully loaded,secure,scalable(can handle large increase in users,traffic on various sites) and versatile.Despite of the above stated advantages django is bad for large applications and it comes with tons of perbuilt features,which may or maynot be used,will consume server resources.<br><br>
 
