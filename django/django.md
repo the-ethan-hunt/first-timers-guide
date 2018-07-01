@@ -10,10 +10,10 @@ On the other hand Django includes all of the above mention features hence it bec
 
 Django is fast,fully loaded,secure,scalable(can handle large increase in users,traffic on various sites) and versatile.Despite of the above stated advantages django is bad for large applications and it comes with tons of perbuilt features which may or maynot be used.<br><br>
 
-RESOURCES TO LEARN DJANGO:
-Django Girls Tutorial[https://tutorial.djangogirls.org/en/index.html]<br>
-How To Tango With Django 1.7[http://www.tangowithdjango.com/book17/]<br>
-Mastering Django for Django 1.8 [https://mastering-django.thinkific.com/]<br>
+RESOURCES TO LEARN DJANGO:<br>
+[Django Girls Tutorial](https://tutorial.djangogirls.org/en/index.html)<br>
+[How To Tango With Django 1.7](http://www.tangowithdjango.com/book17/)<br>
+[Mastering Django for Django 1.8](https://mastering-django.thinkific.com/)<br>
 
-DJANGO INSTALLATION GUIDE[https://docs.djangoproject.com/en/2.0/intro/install/]
+[DJANGO INSTALLATION GUIDE](https://docs.djangoproject.com/en/2.0/intro/install/)
 
