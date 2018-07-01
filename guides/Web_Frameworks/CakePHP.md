@@ -1,7 +1,7 @@
 # CakePHP
 
-CakePHP is a MVC Framework written in PHP. The major difference between 3.0 and 2.0 is 3.0 is object oriented (uses class and objects).
-It has lots of features which can be used in fast development with less code and build complex applications faster than plain PHP.
+CakePHP is a MVC Framework written in PHP. The major difference between 3.0 and 2.0 version of CakePHP is 3.0 is object oriented (uses class and objects).
+It has lots of features which can be used in fast development with less code and builds complex applications faster than plain PHP.
 
 It need Composer which is a Dependency Manager for PHP. Install **Composer** first in your desired directory with command-
 
