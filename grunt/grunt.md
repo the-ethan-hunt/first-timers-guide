@@ -20,4 +20,4 @@ While this task could have been done easily but Grunt does it automatically in a
 
 Grunt makes use of plugins in order to accomplish any task.One of the striking features of Grunt is,it can accomplish multiple tasks at the same time.<br><br>
 
-Complete guide for Grunt installtion[https://gruntjs.com/installing-grunt]
+[Complete guide for Grunt installtion](https://gruntjs.com/installing-grunt)
