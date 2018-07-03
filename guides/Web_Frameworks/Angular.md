@@ -1,6 +1,6 @@
 # Angular
 
-Angular is a Javascript framework that is used to build client side applications. It is Developed & Maintaied by Google.
+Angular is a Javascript framework that is used to build client side applications. It is Developed & Maintained by Google.
 It is mainly used for Single Page Application SPAs, where the whole page doesn't reload again and again to generate the view.
 Angular make use of Typescript language, which is a superscript of javascript (.ts).
 As per now the latest version is Angular6. Google team has decided to upgrade the version twice a year.
