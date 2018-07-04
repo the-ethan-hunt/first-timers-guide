@@ -2,8 +2,8 @@
 
 ## What is SVN?
 
-SVN stands for _SubVersioN_, is a version control system developed and owned by apache. Its official name is Apache's SubVersion. So, SVN is basically a piece of software for managing projects among different users. Just like GitHub, to work with SVN, you have to host your projects somewhere remotely. The project directory in a remote place is known as the repository.
-SVN is available on Windows, Linux and OSX as well. For installing it in Linux, simply run the command `apt-get install svn`(on Debian based distros) or `yum install svn`(for Fedora) or `pacman -S svn`(Arch and Arch based distros). In OSX, you can install it using homebrew. Mke sure to use sudo if you aren't rooted.
+SVN, which stands for _SubVersioN_, is a version control system developed and owned by apache. Its official name is Apache's SubVersion. So, SVN is basically a piece of software for managing projects among different users. Just like GitHub, to work with SVN, you have to host your projects somewhere remotely. The project directory in a remote place is known as the repository.
+SVN is available on Windows, Linux and OSX as well. For installing it in Linux, simply run the command `apt-get install svn`(on Debian based distros) or `yum install svn`(for Fedora) or `pacman -S svn`(Arch and Arch based distros). In OSX, you can install it using homebrew. Make sure to use sudo if you aren't rooted.
 
 ## Basic SVN Commands
 
@@ -13,7 +13,7 @@ SVN is available on Windows, Linux and OSX as well. For installing it in Linux, 
 
 `svn commit`: Command for committing the files which user have added earlier using 'svn add' command
 
-`svn update`: When it's the time for publishing the local changes to the remote repository, use 'svn update' to publish it
+`svn update`: When it's time for publishing the local changes to the remote repository, use 'svn update' to publish it
 
 `svn mkdir <repo>/dir_name`: To create a directory in remote repository
 
@@ -25,14 +25,14 @@ SVN is available on Windows, Linux and OSX as well. For installing it in Linux, 
 
 ## How to start an SVN project
 
-After the arrival of git, svn's popularity is decreased significantly. Nowadays, there is almost little to no use of svn.
+After the arrival of git, svn's popularity decreased significantly. Nowadays, there is little to no use for svn.
 Here I am going to show you how to start an svn project and start working on it.
 
 **_PS: I will use a free repository from [RioUXsvn](https://riouxsvn.com). You can use this hosting provider too for practising svn. It's 100% free._**
 
 First, we will get the repository link for cloning the repository in our local system. An svn directory on a local machine is called _working copy_. A repository link of Riouxsvn would look similar to this URL https://svn.riouxsvn.com/test12345-abdus/ (_abdus_ is my name, BTW)
 
-Now we got our URL. It's time to clone the repository. We will use the following command.
+Now we've got our URL. It's time to clone the repository. We will use the following command.
 
 ```bash
 svn co https://svn.riouxsvn.com/test12345-abdus/ awesome_dir
