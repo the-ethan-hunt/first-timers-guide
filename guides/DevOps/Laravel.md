@@ -12,31 +12,40 @@ Whether you are a seasoned PHP developer or just starting out; a basic understan
 
 > Why should you care?
 
-Well, here's a great article explaining just that -
-- https://medium.com/@laraveldevelopers.in/7-reasons-why-to-choose-laravel-framework-for-web-development-3251c7ca88c2
+Well, here are top 7 reasons why Laravel is a better choice for your web development requirements when it comes choosing a PHP framework:
+
+1. **Security** - offers [CSRF][4] for supervising POST & GET request
+2. **Emerging Platform** - featured on Google trends as it's popularity increases
+3. **Template** - consists light-weight templates for creating impressive layouts
+4. **Concise Programming** - learn Laravel for developing optimized solutions on [Laracasts][5]
+5. **Model View Controller Support** - leads to elegant overall performance, better documentation and offer multiple functionalities.
+6. **Built-in Project Environment** - project management becomes easier with [Artisan][6]
+7. **Ready Made Applications** - availability of ready-made applications
 
 #### Get Started
 
 So, if you feel like it's worth a shot, just dive in! Here's a list of resources that might help you get started:
 
-1. [**Laravel Docs 5.6**][4] (check out the official documentation)
-2. [**Laravel Repository**][5] (build an application using Laravel 5)
-3. [**Laravel Tutorial**][6] (install & configure Laravel for creating a simple blog)
-4. [**PHP Tutorial**][7] (for revising key concepts)
-5. [**Laravel Playlist - Traversy Media**][8] (excellent youtube resource for beginners)
-6. [**Laracasts**][9] (the best Laravel & PHP screencasts)
+- [**Laravel Docs 5.6**][7] (check out the official documentation)
+- [**Laravel Repository**][8] (build an application using Laravel 5)
+- [**Laravel Tutorial**][9] (install & configure Laravel for creating a simple blog)
+- [**PHP Tutorial**][10] (for revising key concepts)
+- [**Laravel Playlist - Traversy Media**][11] (excellent youtube resource for beginners)
+- [**Laracasts**][5] (the best Laravel & PHP screencasts)
 
 ## Open Source Contribution
 
-Being open-source, anyone can contribute to the betterment **Laravel's** features. For further info, visit [here][10]
+Being open-source, anyone can contribute to the betterment of **Laravel's** features. For further info, visit [here][12]
 
 [1]: https://laravel.com/
 [2]: https://en.wikipedia.org/wiki/PHP
 [3]: https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
-[4]: https://laravel.com/docs/5.6
-[5]: https://github.com/laravel/laravel
-[6]: https://medium.com/laravel-myanmar/tutorials-laravel-blog-f066f2e59588
-[7]: https://www.w3schools.com/pHP/default.asp
-[8]: https://www.youtube.com/watch?v=EU7PRmCpx-0&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-
-[9]: https://laracasts.com/
-[10]: https://github.com/laravel/framework
+[4]: https://en.wikipedia.org/wiki/Cross-site_request_forgery
+[5]: https://laracasts.com/
+[6]: https://laravel.com/docs/5.6/artisan
+[7]: https://laravel.com/docs/5.6
+[8]: https://github.com/laravel/laravel
+[9]: https://medium.com/laravel-myanmar/tutorials-laravel-blog-f066f2e59588
+[10]: https://www.w3schools.com/pHP/default.asp
+[11]: https://www.youtube.com/watch?v=EU7PRmCpx-0&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-
+[12]: https://github.com/laravel/framework
