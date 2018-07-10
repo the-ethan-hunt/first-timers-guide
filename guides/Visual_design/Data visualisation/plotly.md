@@ -6,7 +6,7 @@ Plotly from the name it gives clear indication of it what it provides.The logica
 # Description
 Plotly is one of the data visualization and data analytics tools.It is built on top of data visualization library D3.js, HTML and CSS. It is developed using Python and  Django. It is compatible with a number of languages/ tools: R, Python, MATLAB, Perl, Julia, Arduino. Plotly provides online graphing and statistics tools for individuals and collaborations .It also offers scientific graphing libraries for Python, R, MATLAB, Perl, Julia, and REST.The github repo of plotly is found [here](https://github.com/plotly).
 
-It provides six main products
+It provides six main features
 ### Dash - 
 Dash is a Open Source Python library for creating reactive, Web-based applications
 ### plotly.js and plotly.py
@@ -20,8 +20,12 @@ Customizable React-based editor panel for Plotly charts, Part of Plotly's React 
 
 # Get hands on with learning
 Here are few referral links which provide a good documentation for learning
-[Analytics Vidhya](https://www.analyticsvidhya.com/blog/2017/01/beginners-guide-to-create-beautiful-interactive-data-visualizations-using-plotly-in-r-and-python/)
-[Plotly](https://plot.ly/)
-[What is plotly?](https://bookdown.org/paulcbauer/idv2/7-plotly-in-r.html)
-[Plotly wikipedia](https://en.wikipedia.org/wiki/Plotly)
+1. [Analytics Vidhya]
+* (https://www.analyticsvidhya.com/blog/2017/01/beginners-guide-to-create-beautiful-interactive-data-visualizations-using-plotly-in-r-and-python/)
+2. [Plotly]
+* (https://plot.ly/)
+3. [What is plotly?]
+* (https://bookdown.org/paulcbauer/idv2/7-plotly-in-r.html)
+4. [Plotly wikipedia]
+* (https://en.wikipedia.org/wiki/Plotly)
 
