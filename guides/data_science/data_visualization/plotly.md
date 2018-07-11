@@ -20,12 +20,8 @@ Customizable React-based editor panel for Plotly charts, Part of Plotly's React 
 
 # Get hands on with learning
 Here are few referral links which provide a good documentation for learning
-1. [Analytics Vidhya]
-* (https://www.analyticsvidhya.com/blog/2017/01/beginners-guide-to-create-beautiful-interactive-data-visualizations-using-plotly-in-r-and-python/)
-2. [Plotly]
-* (https://plot.ly/)
-3. [What is plotly?]
-* (https://bookdown.org/paulcbauer/idv2/7-plotly-in-r.html)
-4. [Plotly wikipedia]
-* (https://en.wikipedia.org/wiki/Plotly)
+1. [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2017/01/beginners-guide-to-create-beautiful-interactive-data-visualizations-using-plotly-in-r-and-python/)
+2. [Plotly](https://plot.ly/)
+3. [What is plotly?](https://bookdown.org/paulcbauer/idv2/7-plotly-in-r.html)
+4. [Plotly wikipedia](https://en.wikipedia.org/wiki/Plotly)
 
