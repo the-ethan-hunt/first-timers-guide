@@ -9,4 +9,13 @@ Everyone interested in Artificial Intelligence must learn Python, as it is widel
 
 ## Why Python?
 
-Python is very easy to understand and fun to learn and use. Moreover, there are lots ofmodules available for Python which makes it lot more easier and interesting to learn
+Python is very easy to understand and fun to learn and use. Moreover, there are lots of modules available for Python which makes it lot more easier and interesting to learn.
+Some of the fun modules are listed below:
+[Pygame](https://pypi.org/project/Pygame/)
+[NLTK](https://pypi.org/project/nltk/)
+[Scrapy](https://pypi.org/project/Scrapy/)
+[Face-Recognition](https://pypi.org/project/face_recognition/)
+[Beautifulsoup](https://pypi.org/project/BeautifulSoup/)
+[NumPy](https://pypi.org/project/numpy/)
+[Speech Recognition](https://pypi.org/project/SpeechRecognition/)
+[Text-to-speech](https://pypi.org/project/pyttsx/)
