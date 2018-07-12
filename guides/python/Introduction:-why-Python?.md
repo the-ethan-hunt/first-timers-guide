@@ -27,3 +27,5 @@ Some of the fun modules are listed below:
 [Speech Recognition](https://pypi.org/project/SpeechRecognition/)
 
 [Text-to-speech](https://pypi.org/project/pyttsx/)
+
+[Tweepy](https://pypi.org/project/tweepy/)
