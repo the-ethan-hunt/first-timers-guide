@@ -13,6 +13,21 @@ The official documentation can be found [here](https://vuematerial.io/).
 
 Vue Material offers a wide range components, UI elements, and themes which can be used in our applications.
 
+## Vue Material Features
+-----------
+* Responsive - adapts to screen size and orientation
+* Event Handling - does some action when an event is triggered. This can be done using v-on.
+* CSS - allows to add styles and transitions to all components and divisions 
+* Directives - reactively apply special effects to the DOM using v-for, v-if, and v-show
+* Filters - apply common text formatting
+
+## Vue JS preference over other JS Frameworks
+---------------------------------------------
+1.Clear documentation and syntax - the [Vue JS guide](https://vuejs.org/v2/guide/) is extremely well-documented and helpful.
+2.Vue JS has separate sections for template, script, and styles, all in the same file. 
+3.Vue JS has better readability - Eg: inside the script tag, we have a data() function to declare all the variables, a methods: {} object to define all methods, etc.
+4.Vue is fairly new and is growing as a community.
+
 ## Installation
 ---------------
 Vue Material may be installed via NPM or Yarn by running the following command in terminal:
@@ -41,20 +56,12 @@ $ npm run dev
 
 Open **localhost:8080**
 
-## Vue Material Features
------------
-* Responsive - adapts to screen size and orientation
-* Event Handling - does some action when an event is triggered. This can be done using v-on.
-* CSS - allows to add styles to all components and divisions 
-* Directives - reactively apply special effects to the DOM using v-for, v-if, and v-show
-* Filters - apply common text formatting
-
 ## Example
 ----------
 
 ### A simple example to demonstrate the use of Vue Material
 
-1.Refer [this](https://sultaness.github.io/vue-material-app.html) article to set up a Vue Material Project.
+1.Refer [this](https://sultaness.github.io/vue-material-app.html) step by step article to set up a Vue Material Project.
 
 2.Once a project is set up, navigate to *src/App.vue* file and replace the content inside **div** tag with: 
 
@@ -83,8 +90,8 @@ The `<p>` tag displays the message which gets modified inside `showCount` functi
       	this.message = `This button has been clicked once!`;
       	this.count++;
       }
-	   else
-	    this.message = `This button has been clicked ${this.count++} times!`;
+       else
+	this.message = `This button has been clicked ${this.count++} times!`;
     }
    }
  }
