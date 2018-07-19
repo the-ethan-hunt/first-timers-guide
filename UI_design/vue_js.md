@@ -1,10 +1,5 @@
----
-layout: default
----
+## Vue.js
 
-# First Timers Guide to Vue Material
-
-<br>
 ## What is Vue Material? 
 ------------------------
 Vue Material is the integration of Vue JS, an open source javascript framework, and Material Design specifications, together which can be used to build beautiful user interfaces. 
@@ -24,8 +19,11 @@ Vue Material offers a wide range components, UI elements, and themes which can b
 ## Vue JS preference over other JS Frameworks
 ---------------------------------------------
 1.Clear documentation and syntax - the [Vue JS guide](https://vuejs.org/v2/guide/) is extremely well-documented and helpful.
+
 2.Vue JS has separate sections for template, script, and styles, all in the same file. 
+
 3.Vue JS has better readability - Eg: inside the script tag, we have a data() function to declare all the variables, a methods: {} object to define all methods, etc.
+
 4.Vue is fairly new and is growing as a community.
 
 ## Installation
