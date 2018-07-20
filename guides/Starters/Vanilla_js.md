@@ -4,16 +4,18 @@ The term Vanilla in english is termed as "anything having no special or extra fe
 #### WHEN TO USE VANILLA JS ?
 Vanilla is fine when one aims to build a content-heavy website.
 
-Use Vanilla when primary client side app technology(rendering html,routing,validation,data mapping,calling services and authentication) is different that javascript(.net,jsp etc) and one just want DOM manipulations to already rendered DOM without disturbing core mechanism of rendering.
+Use Vanilla when primary client side app technology(rendering html,routing,validation,data mapping,calling services and authentication) is different than javascript(.net,jsp etc).
+
+Use Vanilla where DOM allows programs and scripts to dynamically access and update the content, structure, and style of a document to already rendered DOM without disturbing core mechanism of rendering.
 
 #### USING VANILLA JS:
 In order to use vanilla js:
 
-[< script src="path/to/vanilla.js" >< /script >]
+**< script src="path/to/vanilla.js" >< /script>**
 
 one needs to put this code anywhere in html file.
 
 #### LEARN VANILLA JS:
 [RESOURCES TO LEARN VANILLA JAVASCRIPT](https://designmodo.com/learn-vanilla-javascript/)
 
-[YOUTUBE TUTORIALS]()
+[YOUTUBE TUTORIALS](https://www.youtube.com/watch?v=vEROU2XtPR8&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
