@@ -21,19 +21,19 @@ Nuxt.js presets all the features that are needed to make your development of a V
 #### INSTALLATION:
 Install it with vue-cli:
 
-$ vue init nuxt-community/starter-template {project-name}
+**$ vue init nuxt-community/starter-template {project-name}**
 
-If vue-cli is not installed,install it with npm install -g @vue/cli @vue/cli-init
+If vue-cli is not installed,install it with **npm install -g @vue/cli @vue/cli-init
 
 followed by the other dependencies:
 
-$ cd {project-name}
+**$ cd {project-name}
 
-$ npm install
+**$ npm install
 
 and launch the project with:
 
-$ npm run dev
+.**$ npm run dev
 
 The application is now running on  http://localhost:3000.
 
