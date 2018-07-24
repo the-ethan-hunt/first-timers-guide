@@ -17,7 +17,7 @@ Middle layer is bottleneck –  and number of neurons is much lesser. The small nu
 
 <img src = "https://www.doc.ic.ac.uk/~js4416/163/website/img/autoencoders/autoencoder.png"/>
 
-
+[Image Source] - https://www.doc.ic.ac.uk/~js4416/163/website/img/autoencoders/autoencoder.png
 
 
 Autoencoders are similar to PCA – AE can be used for finding a low-dimensional representation of input data. 

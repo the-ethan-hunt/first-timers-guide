@@ -24,6 +24,8 @@ LSTMs can remember the inputs for a longer duration because LSTM stores its info
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Peephole_Long_Short-Term_Memory.svg/2000px-Peephole_Long_Short-Term_Memory.svg.png" height = "200" width = "400"/>
 
+[Image Source] - https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Peephole_Long_Short-Term_Memory.svg/2000px-Peephole_Long_Short-Term_Memory.svg.png
+
 There are gates cell, which tells whether to store or delete the information or not based on their importance which is determined by the algorithm
 There are 3 gates:
 1. Input – this gate tells whether or not to let new input come inside. 

@@ -17,6 +17,7 @@ When lot more hidden layers are added between our data, and we connect each laye
 
 ![NeuralNetworks Deep Neural Networks](https://datawarrior.files.wordpress.com/2016/04/slide5.png?w=542)
 
+[Image Source]- https://datawarrior.files.wordpress.com/2016/04/slide5.png?w=542
 
 ### Neuron
  Neurons are the cell that carries electrical signal. They help in passing the message in electrical form through large number of neurons forming neural nets.
@@ -52,6 +53,7 @@ Inputs are passed to the neurons and a corresponding output is generated. It the
 
 ![](https://i.ytimg.com/vi/xaaLmfW5gDs/maxresdefault.jpg)
 
+[Image Source]- https://i.ytimg.com/vi/xaaLmfW5gDs/maxresdefault.jpg
 
 **Some Popular libraries to implement Neural Networks**
 

@@ -10,6 +10,8 @@ When RNN is unrolled it forms a chain like structure. Below image describe both 
 
 <img src="https://cdn-images-1.medium.com/max/800/0*YNLOjW7YVJarwMD4.png" height ="150" width="500"/>
 
+[Image Source] - https://cdn-images-1.medium.com/max/800/0*YNLOjW7YVJarwMD4.png
+
 ## Types of RNN
 1. One to One – One input corresponds to one Output. E. g – an **Image classification**
 1. One to Many – One input and many output. E. g – **Image captioning** - giving description to an image.
@@ -18,6 +20,7 @@ When RNN is unrolled it forms a chain like structure. Below image describe both 
 
 <img src="https://cdn-images-1.medium.com/max/800/0*0ETid8yQzpp-Wiky.png" height ="150" width="400"/>
 
+[Image Source] - https://cdn-images-1.medium.com/max/800/0*0ETid8yQzpp-Wiky.png
 
 ### Why can’t we use Feed Forward Network?
 In feed forward Network, the output at time ‘t’ is independent of output at time ‘t-1’ as there is no relation between new output and previous output, whereas in RNN the output at time ‘t-1’ acts as input for output at ‘t’.
@@ -25,6 +28,8 @@ In feed forward Network, the output at time ‘t’ is independent of output at time
 E. g when you read a book, you understand it only if you understand the previous words, so the output at previous time is important in RNN. We cannot predict the words using feed forward network because the next word can be predicted only by considering the previous ones.
 
 <img src="https://cdn-images-1.medium.com/max/1920/0*mRHhGAbsKaJPbT21.png" height ="250" width="400"/>
+
+[Image Source] - https://cdn-images-1.medium.com/max/1920/0*mRHhGAbsKaJPbT21.png
 
 ### Training a RNN?
 

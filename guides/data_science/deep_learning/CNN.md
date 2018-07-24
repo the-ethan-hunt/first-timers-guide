@@ -10,6 +10,7 @@ Basically There are 3 channels R, G, B. Each layer has its own respective pixel 
 
 <img src="https://xrds.acm.org/blog/wp-content/uploads/2016/06/Figure1.png" height="250" width="400"/>
 
+[Image Source] - https://xrds.acm.org/blog/wp-content/uploads/2016/06/Figure1.png
 
 ### Why can’t we use fully connected networks for image classifications?
 If an image has 200x200x3 pixels, feeding this image to a fully connected network then the total no. of ways required in first hidden layer is 120,000. So, there is huge parameter and more no. of neurons will be required that can lead to overfitting. That’s why we cannot use fully connected network for image classification. 
@@ -50,6 +51,8 @@ And now, put the value in the position of that pixel. Similarly move the feature
 
 <img src= "http://cambridgespark.com/content/tutorials/convolutional-neural-networks-with-keras/figures/convolve.png" height = "200" width ="500"/>
 
+[Image Source] - http://cambridgespark.com/content/tutorials/convolutional-neural-networks-with-keras/figures/convolve.png
+
 ### ReLU Layer 
 
 In this layer, we remove the negative values from the filtered images and replaces them with 0.
@@ -61,6 +64,8 @@ f(x) = 0 if x<0 or x if x>=0
 
 <img src="https://cdn-images-1.medium.com/max/1600/1*6HyqifN4M_bJ7DTJ0RFRJA.jpeg" height="200" width="550"/>
 
+[Image Source] - https://cdn-images-1.medium.com/max/1600/1*6HyqifN4M_bJ7DTJ0RFRJA.jpeg
+
 ### Pooling Layer
 The use of this layer is to shrink the image into smaller size.
 
@@ -71,6 +76,8 @@ Steps:
 1. From each window, take the maximum value.
 
 <img src="https://qph.fs.quoracdn.net/main-qimg-8afedfb2f82f279781bfefa269bc6a90" height="200" width="500"/>
+
+[Image Source] - https://qph.fs.quoracdn.net/main-qimg-8afedfb2f82f279781bfefa269bc6a90
 
 ### Fully connected Layer
 This is the final layer where the actual classification happens.
@@ -85,5 +92,9 @@ Thus, using this last vector we can classify whether the new image belong to cat
 
 <img src="https://camo.githubusercontent.com/bb218769914fa13c8989675fef0a43eb8c1b1635/687474703a2f2f62726f687265722e6769746875622e696f2f696d616765732f636e6e31332e706e67" height="300" width="400"/> The image is classified as **X** since it has more probability. 
 
+[Image Source] - https://camo.githubusercontent.com/bb218769914fa13c8989675fef0a43eb8c1b1635/687474703a2f2f62726f687265722e6769746875622e696f2f696d616765732f636e6e31332e706e67
+
 **Combining All Layers**
 <img src="https://adeshpande3.github.io/assets/Cover.png" />
+
+[Image Source] - https://adeshpande3.github.io/assets/Cover.png
