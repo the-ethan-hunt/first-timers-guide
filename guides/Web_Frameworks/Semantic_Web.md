@@ -22,17 +22,13 @@ Here, **Semantic** doesn't refer that computers are going to understand the mean
 
 ###### Semantic Web consists of the following --
 
-- **Data Model** : [Resource Description Framework][4] (RDF) is a flexible and abstract data modeling languag which has more than one representation.
+- **Data Model** : [Resource Description Framework][4] (RDF) is a flexible and abstract data modeling language which has more than one representation.
 
 - **Query Language**: [SPARQL Protocol and RDF Query Language][5] (SPARQL) is the query language of the Semantic Web. It is specifically designed to query data across various systems.
 
-- **Schema and Ontology Languages**: [Web Ontology Language][6] (OWL)  is a family of knowledge representation languages for authoring ontologies. They enable you to define concepts composably so that these concepts can be reused as much and as often as possible.
+- **Schema and Ontology Languages**: [Web Ontology Language][6] (OWL)  is a family of knowledge representation languages for authoring ontologies i.e. shared concepualization. They enable you to define concepts composably so that these concepts can be reused as much and as often as possible.
 
 ![](https://i0.wp.com/pbiswas101.files.wordpress.com/2018/07/stack.png?ssl=1&w=450)
-
-###### Linked Data
-
-One of the most important movements in the Semantic Web community is **Linked Data**, which strives to expose and connect all of the world’s data in a queryable and consumable form. The goal of Linked Data is to publish structured data in such a way that it can be easily consumed and combined with other Linked Data.
 
 ###### Implementation
 
