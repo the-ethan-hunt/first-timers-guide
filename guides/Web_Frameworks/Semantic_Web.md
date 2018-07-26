@@ -12,7 +12,7 @@ The [**Semantic Web**][1] is an extension of the World Wide Web through standard
 
 - **Web 2.0 (Social Web)**: This web represents social stuff but do not interoperate because data aren't linked e.g. updating facebook profile doesn't affect you linkedin.
 
-- **Web 3.0 (Web of Data)**: Semantic Web is not a seperate web but an extension of the current one that not only presents data but also und Here, it is all about connecting the data at lower levels not just documentserstand it.
+- **Web 3.0 (Web of Data)**: Semantic Web is not a seperate web but an extension of the current one that not only presents data but also understand it. Here, it is all about connecting the data at lower levels not just documents.
 
 ## Semantic Web
 
