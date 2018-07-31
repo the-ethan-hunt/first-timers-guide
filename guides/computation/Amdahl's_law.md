@@ -1,5 +1,5 @@
 ## What is Amdahl's law?
-In advanced computer architechture,Amdahl’s law is a formula used to determine the maximum improvement possible by improving a particular part of a system. It is named after Gene Amdahl, a computer architect from IBM and the Amdahl Corporation.
+In advanced computer architechture,Amdahl’s law is a formula used to determine the maximum improvement possible by improving a particular part of a system.
 Amdahl's Law is a law which administers the speedup of using parallel processors on a problem in comparision with using only one serial processor.
 
 Let's take a real life example to get a clear understanding of the law:
