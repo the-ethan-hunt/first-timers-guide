@@ -1,5 +1,6 @@
 ## What is Amdahl's law?
 In advanced computer architechture,Amdahl’s law is a formula used to determine the maximum improvement possible by improving a particular part of a system. It is named after Gene Amdahl, a computer architect from IBM and the Amdahl Corporation.
+Amdahl's Law is a law which administers the speedup of using parallel processors on a problem in comparision with using only one serial processor.
 
 Let's take a real life example to get a clear understanding of the law:
 - Suppose there are three friends A,B and C.
@@ -11,8 +12,10 @@ Amdahl's law can be written as:
 
 S<sub>latency</sub> (s)= 1/((1-p)+(p/s))
 
-- S<sub>latency</sub> is the measure of theoretical speedup of the execution of the whole task.
+- S<sub>latency</sub> is the measure of maximum possible improvement in theoretical speedup of the execution of the whole task.
 - s is the speedup of the part of the task that gets benifited from improved system resources.
 - p is the proportion of execution time that the part benifiting from improved resources originally occupied.
+
+If N tends to infinity then the maximum speedup tends to 1/(1-P).
 
 [MORE ABOUT AMDAHL'S LAW](http://tutorials.jenkov.com/java-concurrency/amdahls-law.html)
