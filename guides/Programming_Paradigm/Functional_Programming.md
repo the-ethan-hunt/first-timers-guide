@@ -4,7 +4,7 @@
 
 ![](https://i0.wp.com/pbiswas101.files.wordpress.com/2018/07/paradigm_evolution.png?ssl=1&w=450)
 
-> Functional programming has its origins in lambda calculus, a formal system developed in the 1930s to investigate computability
+> Functional programming is based on lambda calculus, developed in the 1930s to investigate computability
 
 ## Few Terminologies...
 
@@ -24,7 +24,7 @@ Functional programming try to avoid side effects with the help of **pure functio
 
 #### Shared State
 
-A shared state is any variable, object, or memory space that exists in a shared scope or as the property of an object being passed between both the global as well as the closure scopes. In [OOP][2], objects are often shared between scopes by adding properties to other objects. By avoiding shared state we can remove function call timing dependency viz. the timing and order of function calls don’t change the result of calling the function.
+A shared state is defined as any variable, object, or memory space that exists in a shared scope or as the property of an object being passed between both the closure as well as the global scopes. In [OOP][2], objects are often shared between scopes by adding properties to other objects. By avoiding shared state we can remove function call timing dependency viz. the timing and order of function calls don’t change the result of calling the function.
 
 > This is the reason that most front-end frameworks encourage users to manage state and component rendering in separate, loosely coupled modules.
 
@@ -40,7 +40,7 @@ And yes, functional programming tends to avoid shared state!
 
 #### [First-Class Function][3]
 
-**First-class functions** are treated like [first-class citizens][4] viz. like any other variable these functions can be passed as an argument to other functions, can be returned by another function and can be assigned as a value to a variable.
+**First-class functions** are treated like [first-class citizens][4] viz. like any other value these functions can be assigned as a value to a variable, can be passed as an argument to other functions and can be returned by another function.
 
 #### [Higher-Order Function][5]
 
@@ -48,15 +48,15 @@ And yes, functional programming tends to avoid shared state!
 
 #### [Pure Function][8]
 
-**Pure functions** have lots of properties that are important in functional programming, including [referential transparency][9] viz. you can replace a function call with its resulting value without changing the meaning of the program. So, a pure function is a function which always returns the same output when given the same inputs & has no side-effects.
+**Pure functions** have lots of properties that are important in functional programming, including [referential transparency][9] viz. we can replace a function call with its resulting value without changing the meaning of the program. So, a pure function is a function which always returns the same output when given the same inputs & has no side-effects.
 
-#### [Immutability][10]
+#### [Immutable Data][10]
 
-**Immutability** is a central concept of functional programming because without it, the data flow in a program becomes lossy and strange bugs can creep into any software. Functional programming provides special immutable data structures called '[Trie][11]' which are effectively deep frozen  meaning that no property can change!
+**Immutable data** is an object whose state cannot be modified after it is created which is a great thing for multi-threaded applications. Functional programming provides special immutable data structures called '[Trie][11]' which are effectively deep frozen  meaning that no property can change!
 
 #### [Recursion][12]
 
-**Recursion** is the functional approach and acts as a replacement for looping. It’s not like we can’t use loops, it’s just that there are no specific loop constructs like for, while, do, repeat, etc. A function that calls itself is known as a recursive function and this technique is known as recursion.
+**Recursion** is the functional approach and acts as a replacement for looping. It’s not like we can’t use loops, it’s just that there are no specific loop constructs like for, while, do, repeat, etc. Recursion is a technique in which a function calls itself in order to mimic a traditional **for** or **while** loop!
 
 ------------
 
@@ -66,9 +66,9 @@ And yes, functional programming tends to avoid shared state!
 
 #### Now, what functional programming really is!
 
-**Functional Programming** is a way of writing code that treats computation as the evaluation of mathematical functions or expressions and avoids changing-state & mutable data. In functional code, the output value of a function depends only on the arguments that are passed to the function. Therefore, calling a function `f` twice with the same value for argument `x` will produce the same result `f(x)` each time. This is the simple notion of pure functions which act as the foundation for this paradigm! So, in case of the first-class function, we'll consider `x` as a function `g` which in turn makes function `f` higher-order i.e. `f(g(x))`
+**Functional Programming** is a way of writing code that tends to avoid changing-state & mutable data by treating computation as the evaluation of functions or expressions! In functional code, the output value of any function depends only on the arguments that are passed to the function. Therefore, if we call a function `f` twice with the same value for argument `x`, then `f(x)` produces the same result each time. This is the simple notion of pure functions which act as the foundation for this paradigm! So, in case of the first-class function, we'll consider `x` as an argument for function `g` which in turn is an argument for function `f` i.e. `f(g(x))` (higher order).
 
-These functions are easily composable & serve as an elegant approach to design software. As functional programming has no side effects, it's an excellent way to design program that needs multithreading, asynchronicity, and scalability.
+These functions are easily composable & serve as an elegant approach to design software. Since functional programming is without side effects, it's an intuitive way to design a program that needs multithreading, asynchronicity, and scalability.
 
 > "Functional Programming has many different definitions. A Lisp programmer's definition is vastly different from a Haskell perspective. OCaml's FP bears little resemblance to the paradigm seen in Erlang. You will even find several competing definitions in JavaScript. Yet there is a tie that binds -- some blurry know-it-when-I-see-it definition, much like obscenity"
 
