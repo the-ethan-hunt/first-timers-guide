@@ -87,6 +87,11 @@ If you get an error see [ssh-add:illegal option -K.][3]
 
 11. **Confirm** your **password** if required.
 
+You now have a secure **SSH** connection. You can forget about having to supply pesky username and password credentials.
+
+WORTHY NOTE: The **https** protocol is less secure than SSH, but it is less likely to be blocked by a firewall or proxy. This means that the remote **clone URLs** work everywhere.  
+
+
 # Celebrate!!!!
 
 
