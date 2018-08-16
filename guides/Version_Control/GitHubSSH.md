@@ -37,12 +37,14 @@ id_rsa.pub
 4. Confirm you **passphrase**.  
 
 #### Add keys via ssh-agent
-1. ```
-  $ eval "$(ssh-agent -s)"
-  # You should see something like:
-  Agent pid xxxxx
-  ```
-That starts a **ssh-agent** background process.  
+1. `
+  $ eval "$(ssh-agent -s)" `    
+
+  You should see something like:  
+  
+  `Agent pid xxxxx`
+
+  That starts a **ssh-agent** background process.  
 
 2. If your OS is _macOS Sierra 10.12.2_ or later update your **_~/.ssh/config_** file with the following:
 
@@ -92,10 +94,13 @@ You now have a secure **SSH** connection. You can forget about having to supply 
 WORTHY NOTE: The **https** protocol is less secure than SSH but, it is easier to configure and less likely to be blocked by a firewall or proxy. This means that the remote **clone URLs** work everywhere.  
 
 
-# Celebrate!!!!
-
-
-
 [1]:https://en.wikipedia.org/wiki/Secure_Shell
 [2]:https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
 [3]:https://help.github.com/articles/error-ssh-add-illegal-option-k/
+
+# Resources
+[WIkipedia - Secure Shell](https://en.wikipedia.org/wiki/Secure_Shell)
+
+[GitHub - Generate SSH Key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
+
+[GitHub - option -K Error](https://help.github.com/articles/error-ssh-add-illegal-option-k/)
