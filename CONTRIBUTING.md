@@ -1,21 +1,16 @@
-Being a first-timer, contributing is awesome! :tada:
+Contributing as a first-timer is awesome! :tada:
 
-But, of course there are some contributing rules: Like how filling out the comment part or how to make an appropriate pull request.
-The `CONTRIBUTING.md` file helps you out.
+Of course, there are some contributing rules: such as how to fill out the comment part, or how to create a great Pull Request.
 
-Big projects have a big set of rules & regulations over how to contribute. But, since this project is for a first-timer, 
-we will have as few rules as possible. :pizza:
+Big projects have a big set of rules and regulations on how to contribute. But, since this project is for first-timers, we will have as few rules as possible. :pizza:
 
-- Write your guide only in Markdown format.
-- Place your guide in an appropriate folder. Generally, the name of the folder can be taken from the label tag of the respective 
-issue itself.
-- If you are writing an article about which an issue has not been defined, you are free to do it!
-- When making a PR, mention the issue you are solving or the name of the article.
-- **Do not COPY any article from Wikipedia/encyclopedia/book/blog**. The content of an article easily determines whether you have
-written it by yourself or copied it.And this is not the aim of this project.
-- If an article is found to be copied, the maintainer will comment on it as 'copied'.
-- While writing the PR please follow the PR template guidelines
-- The maintainer will review your PR in an span of 2 days. **Do not review other contributor's PR until said so by the maintainer
-himself**.
+- Create a fork of this repository.
+- Write your guide in Markdown.
+- Place your guide in a separate folder. Generally, you can use the name of the tag of the GitHub issue that got you started.
+- If you are writing an article without a related issue, you are free to do it!
+- When making a Pull Request, mention the issue you are solving or the name of the article.
+- **Do not just COPY any article from Wikipedia/encyclopedia/book/blog**. It's usually quite easy to say whether you have written the article by yourself or copied it. And this is not the aim of this project. If an article is found to be copied, the maintainer will comment on it as 'copied'.
+- While creating a PR, please follow the PR template guidelines.
+- The maintainer will review your PR within 2 days. **Do not review other contributors' PRs until asked to by the maintainer**.
 
-**HAPPY CONTRIBUTING** :smile:
+**Happy contributing!** :smile:
