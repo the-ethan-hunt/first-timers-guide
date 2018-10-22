@@ -17,5 +17,6 @@ written it by yourself or copied it.And this is not the aim of this project.
 - While writing the PR please follow the PR template guidelines
 - The maintainer will review your PR in an span of 2 days. **Do not review other contributor's PR until said so by the maintainer
 himself**.
+- Contribute to what you love
 
 **HAPPY CONTRIBUTING** :smile:
