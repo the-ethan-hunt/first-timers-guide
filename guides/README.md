@@ -1,47 +1,47 @@
 Guides
 -------
-[Cloud_development](https://github.com/KaushalSahu/first-timers-guide/tree/master/guides/Cloud_development)
+[Cloud_development](Cloud_development)
 
-[DevOps](https://github.com/KaushalSahu/first-timers-guide/tree/master/guides/DevOps)
+[DevOps](DevOps)
 
-[Game Developement](https://github.com/KaushalSahu/first-timers-guide/tree/master/guides/Game%20Development)
+[Game Developement](Game%20Development)
 
-[Networking](https://github.com/KaushalSahu/first-timers-guide/tree/master/guides/Networking)
+[Networking](Networking)
 
-[Open_Source_Software](https://github.com/KaushalSahu/first-timers-guide/tree/master/guides/Open_Source_Software)
+[Open_Source_Software](Open_Source_Software)
 
-[Programming_Paradigm](https://github.com/KaushalSahu/first-timers-guide/tree/master/guides/Programming_Paradigm)
+[Programming_Paradigm](Programming_Paradigm)
 
-[Security](https://github.com/KaushalSahu/first-timers-guide/tree/master/guides/Security)
+[Security](Security)
 
-[Starters](https://github.com/KaushalSahu/first-timers-guide/tree/master/guides/Starters)
+[Starters](Starters)
 
-[UI_design](https://github.com/KaushalSahu/first-timers-guide/tree/master/guides/UI_design)
+[UI_design](UI_design)
 
-[UX_design](https://github.com/KaushalSahu/first-timers-guide/tree/master/guides/UX_design)
+[UX_design](UX_design)
 
-[Version_Control](https://github.com/KaushalSahu/first-timers-guide/tree/master/guides/Version_Control)
+[Version_Control](Version_Control)
 
-[Visual_design](https://github.com/KaushalSahu/first-timers-guide/tree/master/guides/Visual_design)
+[Visual_design](Visual_design)
 
-[Web Containers](https://github.com/KaushalSahu/first-timers-guide/tree/master/guides/Web%20Containers)
+[Web Containers](Web%20Containers)
 
-[Web_Containers](https://github.com/KaushalSahu/first-timers-guide/tree/master/guides/Web_Containers)
+[Web_Containers](Web_Containers)
 
-[Web_Frameworks](https://github.com/KaushalSahu/first-timers-guide/tree/master/guides/Web_Frameworks)
+[Web_Frameworks](Web_Frameworks)
 
-[agile](https://github.com/KaushalSahu/first-timers-guide/tree/master/guides/agile)
+[agile](agile)
 
-[computation](https://github.com/KaushalSahu/first-timers-guide/tree/master/guides/Computation)
+[computation](Computation)
 
-[data_science](https://github.com/KaushalSahu/first-timers-guide/tree/master/guides/data_science)
+[data_science](data_science)
 
-[databases](https://github.com/KaushalSahu/first-timers-guide/tree/master/guides/databases)
+[databases](databases)
 
-[issue_tracking](https://github.com/KaushalSahu/first-timers-guide/tree/master/guides/issue_tracking)
+[issue_tracking](issue_tracking)
 
-[logic](https://github.com/KaushalSahu/first-timers-guide/tree/master/guides/logic)
+[logic](logic)
 
-[python](https://github.com/KaushalSahu/first-timers-guide/tree/master/guides/python)
+[python](python)
 
-[web_developement](https://github.com/KaushalSahu/first-timers-guide/tree/master/guides/web_developement)
+[web_developement](web_developement)
