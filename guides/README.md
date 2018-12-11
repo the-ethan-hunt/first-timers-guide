@@ -32,7 +32,7 @@ Guides
 
 [agile](agile)
 
-[computation](Computation)
+[computation](computation)
 
 [data_science](data_science)
 
