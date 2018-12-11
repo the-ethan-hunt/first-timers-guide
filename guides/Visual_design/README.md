@@ -1,6 +1,6 @@
 Visual Design
 ----
-[Architetual Pattern](Architectural_Pattern)
+[Architectural Pattern](Architectural_Pattern)
 
 [Design Language](Design_Language)
 
