@@ -1,9 +1,9 @@
 Agile
 -----
-[Code_Smell](https://github.com/KaushalSahu/first-timers-guide/blob/master/guides/agile/Code_Smell.md)
+[Code_Smell](Code_Smell.md)
 
-[Dont_Repeat_Yourself](https://github.com/KaushalSahu/first-timers-guide/blob/master/guides/agile/Dont_Repeat_Yourself.md)
+[Dont_Repeat_Yourself](Dont_Repeat_Yourself.md)
 
-[MoSCoW](https://github.com/KaushalSahu/first-timers-guide/blob/master/guides/agile/MoSCoW.md)
+[MoSCoW](MoSCoW.md)
 
-[Software_Development](https://github.com/KaushalSahu/first-timers-guide/blob/master/guides/agile/Software_Development.md)
+[Software_Development_Life_Cycle](Software_Development_Life_Cycle.md)
