@@ -1,9 +1,9 @@
 DataBases
 ------
-[SQLAlchemy_intro](databases/SQLAlchemy_intro.md)
+[SQLAlchemy_intro](SQLAlchemy_intro.md)
 
-[database_keys](databases/SQLAlchemy_intro.md)
+[database_keys](SQLAlchemy_intro.md)
 
-[mongodb](databases/mongodb.md)
+[mongodb](mongodb.md)
 
-[mysql](databases/mysql.md)
+[mysql](mysql.md)
