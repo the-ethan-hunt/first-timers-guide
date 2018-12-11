@@ -18,7 +18,7 @@ Web Frameworks
 
 [Phalcon](Phalcon.md)
 
-[Phoneix](Phoneix.md)
+[Pheonix](Pheonix.md)
 
 [Pyramid](Pyramid.md)
 
