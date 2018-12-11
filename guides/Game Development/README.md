@@ -1,9 +1,9 @@
 Game Development
 -----
-[Blender](Blender)
+[Blender](Blender.md)
 
-[Godot](Godot)
+[Godot](Godot.md)
 
-[Unity](Unity)
+[Unity](Unity.md)
 
-[Unreal](Unreal)
+[Unreal](Unreal.md)
