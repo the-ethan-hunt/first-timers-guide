@@ -1,31 +1,18 @@
 Guides
 -------
 [Cloud_development](Cloud_development)
-
   * [Azure](Cloud_development/Azure.md)
-
   * [Firebase](Cloud_development/Firebase.md)
-
   * [Heroku](Cloud_development/Heroku.md)
-
   * [Rest API](Cloud_development/REST%20API.md)
-
 [DevOps](DevOps)
-
   * [Ansible](DevOps/Ansible.md)
-
   * [Laravel](DevOps/Laravel.md)
-
   * [Package Manager](DevOps/Package_Manager.md)
-
   * [Vagrant](DevOps/Vagrant.md)
-
   * [Docker Introduction](DevOps/docker_intro.md)
-
   * [Grunt](DevOps/grunt.md)
-
   * [Kubernetes](DevOps/kubernetes.md)
-
 [Game Developement](Game%20Development)
 
   * [Blender](Game%20Development/Blender.md)
