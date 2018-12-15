@@ -28,6 +28,14 @@ Guides
 
 [Game Developement](Game%20Development)
 
+  * [Blender](Game%20Development/Blender.md)
+
+  * [Godot](Game%20Development/Godot.md)
+
+  * [Unity](Game%20Development/Unity.md)
+
+  * [Unreal](Game%20Development/Unreal.md)
+
 [Networking](Networking)
 
 [Open_Source_Software](Open_Source_Software)
