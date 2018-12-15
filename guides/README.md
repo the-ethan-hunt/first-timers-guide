@@ -68,6 +68,8 @@ Guides
 
 [Starters](Starters)
 
+  * [Vanilla_js](Starters/Vanilla_js.md)
+
 [UI_design](UI_design)
 
 [UX_design](UX_design)
