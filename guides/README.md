@@ -48,6 +48,12 @@ Guides
 
 [Programming_Paradigm](Programming_Paradigm)
 
+  * [OOP](Programming_Paradigm/OOP)
+
+  * [Functional Programmming](Programming_Paradigm/Functional_Programming.md)
+
+  * [Parallel Computing](Programming_Paradigm/parallelcomputing.md)
+
 [Security](Security)
 
 [Starters](Starters)
