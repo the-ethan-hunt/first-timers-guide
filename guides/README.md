@@ -38,6 +38,10 @@ Guides
 
 [Networking](Networking)
 
+  * [Blockchain](Networking/Blockchain.md)
+
+  * [IP_addresses](Networking/IP_adresses.md)
+
 [Open_Source_Software](Open_Source_Software)
 
 [Programming_Paradigm](Programming_Paradigm)
