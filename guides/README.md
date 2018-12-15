@@ -72,7 +72,15 @@ Guides
 
 [UI_design](UI_design)
 
+  * [Vue](UI_design/vue_js.md)
+
 [UX_design](UX_design)
+
+  * [An Introduction To AntiPatterns](UX_design/An-Introduction-To-AntiPatterns.md)
+
+  * [Fitts' Law](UX_design/Fitts'%20Law.md)
+
+  * [Hick's Law](UX_design/Hick's%20Law.md)
 
 [Version_Control](Version_Control)
 
