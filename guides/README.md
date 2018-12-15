@@ -44,6 +44,8 @@ Guides
 
 [Open_Source_Software](Open_Source_Software)
 
+  * [Open Source Software](Open_Source_SoftwareOpenSourceSoftware.md)
+
 [Programming_Paradigm](Programming_Paradigm)
 
 [Security](Security)
