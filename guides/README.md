@@ -96,6 +96,24 @@ Guides
 
 [Visual_design](Visual_design)
 
+  * [Architectural Pattern](Visual_design/Architectural_Pattern)
+
+    * [MVC](Visual_design/Architectural_Pattern/MVC.md)
+
+  * [Design Language](Visual_design/Design_Language)
+
+    * [Material Design](Visual_design/Design_Language/Material_Design.md)
+
+  * [Wireframing](Visual_design/Wireframing)
+
+    * [Just in mind](Visual_design/Wireframing/Justinmind.md)
+
+    * [Wireframing](Visual_design/Wireframing/Wireframing.md)
+
+  * [Color Theory](Visual_design/color%20theory)
+
+    * [Color Theory](Visual_design/color%20theory/color%20theory.md)
+
 [Web Containers](Web%20Containers)
 
 [Web_Containers](Web_Containers)
