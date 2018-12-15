@@ -50,6 +50,8 @@ Guides
 
   * [OOP](Programming_Paradigm/OOP)
 
+    * [Prototypal inheritance](Programming_Paradigm/OOP/Prototypal_inheritance.md)
+
   * [Functional Programmming](Programming_Paradigm/Functional_Programming.md)
 
   * [Parallel Computing](Programming_Paradigm/parallelcomputing.md)
