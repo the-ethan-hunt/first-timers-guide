@@ -113,4 +113,8 @@ Guides
   * [The Hardest Logic Puzzle Ever](logic/The_Hardest_Logic_Puzzle_Ever.md)
   * [Turing Test](logic/Turing_Test.md)
 + [python](python)
+  * [Django](python/django.md)
 + [web_development](web_development)
+  * [NodeJS](NodeJS.md)
+  * [ReactJS](Reactjs.md)
+  * [Web Assembly](WebAssembly.md)

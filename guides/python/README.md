@@ -1,3 +1,0 @@
-Python
-----
-[Django](django.md)
