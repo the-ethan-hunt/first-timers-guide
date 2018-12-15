@@ -160,7 +160,32 @@ Guides
 
 [computation](computation)
 
+  * [Amdahl's law](computation/Amdahl's_law.md)
+
 [data_science](data_science)
+
+  * [Data visualization](data_science/data_visualization)
+
+    * [D3](data_science/data_visualization/D3.md)
+    * [DataHero](data_science/data_visualization/DataHero.md)
+    * [Plotly](data_science/data_visualization/plotly.md)
+    * [Tableau](data_science/data_visualization/Tableau.md)
+
+  * [Deep Learning](data_science/deep_learning)
+    * [ANN](data_science/deep_learning/ANN.md)
+    * [Autoencoder](data_science/deep_learning/Autoencoder.md)
+    * [CNN](data_science/deep_learning/CNN.md)
+    * [LSTM](data_science/deep_learning/LSTM.md)
+    * [RNN](data_science/deep_learning/RNN.md)
+    * [TensorFlow](data_science/deep_learning/TensorFlow.md)
+
+  * [Machine Learning](data_science/machine_learning)
+   * [Classification Algorithms](data_science/machine_learning/classificatio_algorithms)
+   * [Regression](data_science/machine_learning/Regression.md)
+
+  * [Natural Language Processing](data_science/natural_language_processing)
+
+  * [Hidden Markov Model](data_science/Hidden%20Markov%20Model.md)
 
 [databases](databases)
 
