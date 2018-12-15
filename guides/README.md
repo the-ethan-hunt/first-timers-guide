@@ -150,6 +150,14 @@ Guides
 
 [agile](agile)
 
+  * [Code_Smell](agile/Code_Smell.md)
+
+  * [Dont_Repeat_Yourself](agile/Dont_Repeat_Yourself.md)
+
+  * [MoSCoW](agile/MoSCoW.md)
+
+  * [Software_Development_Life_Cycle](agile/Software_Development_Life_Cycle.md)
+
 [computation](computation)
 
 [data_science](data_science)
