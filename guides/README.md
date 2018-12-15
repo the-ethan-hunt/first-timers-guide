@@ -124,6 +124,30 @@ Guides
 
 [Web_Frameworks](Web_Frameworks)
 
+  * [Angular](Web_Frameworks/Angular.md)
+
+  * [Cake PHP](Web_Frameworks/CakePHP.md)
+
+  * [Drupal](Web_Frameworks/Drupal.md)
+
+  * [Flask](Web_Frameworks/Flask.md)
+
+  * [GitLab, Flask, Heroku](Web_Frameworks/Gitlab,Flask,Heroku.md)
+
+  * [Grails](Web_Frameworks/Grails.md)
+
+  * [NextJS](Web_Frameworks/Next.js)
+
+  * [Nuxt-js](Web_Frameworks/Nuxt-js.md)
+
+  * [Phalcon](Web_Frameworks/Phalcon.md)
+
+  * [Pheonix](Web_Frameworks/Pheonix.md)
+
+  * [Pyramid](Web_Frameworks/Pyramid.md)
+
+  * [Semantic Web](Web_Frameworks/Semantic_Web.md)
+
 [agile](agile)
 
 [computation](computation)
