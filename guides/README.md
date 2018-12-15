@@ -2,13 +2,13 @@ Guides
 -------
 [Cloud_development](Cloud_development)
 
-  * [Azure](Cloud_developement/Azure.md)
+  * [Azure](Cloud_development/Azure.md)
 
-  * [Firebase](Cloud_developement/Firebase.md)
+  * [Firebase](Cloud_development/Firebase.md)
 
-  * [Heroku](Cloud_developement/Heroku.md)
+  * [Heroku](Cloud_development/Heroku.md)
 
-  * [Rest API](Cloud_developement/REST%20API.md)
+  * [Rest API](Cloud_development/REST%20API.md)
 
 [DevOps](DevOps)
 
