@@ -4,8 +4,7 @@ Guides
   * [Azure](Cloud_development/Azure.md)
   * [Firebase](Cloud_development/Firebase.md)
   * [Heroku](Cloud_development/Heroku.md)
-  * [Rest API](Cloud_development/REST%20API.md)
-
+  * [Rest API](Cloud_development/REST%20API.md)  
 [DevOps](DevOps)
   * [Ansible](DevOps/Ansible.md)
   * [Laravel](DevOps/Laravel.md)
