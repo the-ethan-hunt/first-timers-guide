@@ -84,6 +84,16 @@ Guides
 
 [Version_Control](Version_Control)
 
+  * [Git](Version_Control/Git.md)
+
+  * [GitHub](Version_Control/GitHub.md)
+
+  * [GitHubSSH](Version_Control/GitHubSSH.md)
+
+  * [Mercurial](Version_Control/Mercurial.md)
+
+  * [svn](Version_Control/svn.md)
+
 [Visual_design](Visual_design)
 
 [Web Containers](Web%20Containers)
