@@ -113,7 +113,7 @@ Guides
     - [Semantic Parsing](data_science/natural_language_processing/semantic_parsing.md)
     - [Sentiment Analysis](data_science/natural_language_processing/sentiment_analysis.md)
     - [Stemming Lemmatiztion](data_science/natural_language_processing/stemming_lemmatization.md)
-    - [Synctatic Parsing](data_science/natural_language_processing/syntatic_parsing.md)
+    - [Synctatic Parsing](data_science/natural_language_processing/synctatic_parsing.md)
     - [Text Classification](data_science/natural_language_processing/Text_Classification.md)
     - [Text Summarization](data_science/natural_language_processing/text_summarization.md)
   * [Hidden Markov Model](data_science/Hidden%20Markov%20Model.md)
