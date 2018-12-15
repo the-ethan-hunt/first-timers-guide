@@ -95,6 +95,8 @@ Guides
     - [RNN](data_science/deep_learning/RNN.md)
     - [TensorFlow](data_science/deep_learning/TensorFlow.md)
   * [Miscellaneous](data_science/miscellaneous)
+    - [Hadoop](data_science/miscellaneous/Hadoop.md)
+    - [Spark](data_science/miscellaneous/Spark.md)
   * [Machine Learning](data_science/machine_learning)
     * [Classification Algorithms](data_science/machine_learning/classification_algorithms)
       * [Decision Tree Classifier](data_science/machine_learning/classification_algorithms/Decision_Tree_Classifier.md)
