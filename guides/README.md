@@ -12,6 +12,20 @@ Guides
 
 [DevOps](DevOps)
 
+  * [Ansible](DevOps/Ansible.md)
+
+  * [Laravel](DevOps/Laravel.md)
+
+  * [Package Manager](DevOps/Package_Manager.md)
+
+  * [Vagrant](DevOps/Vagrant.md)
+
+  * [Docker Introduction](DevOps/docker_intro.md)
+
+  * [Grunt](DevOps/grunt.md)
+
+  * [Kubernetes](DevOps/kubernetes.md)
+
 [Game Developement](Game%20Development)
 
 [Networking](Networking)
