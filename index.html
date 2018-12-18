@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>First Timers' Guide</title>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<link rel="stylesheet" href="./_resources/index.css">
+		<script type="text/javascript" src="./_resources/index.js"></script>
+	</head>
+	<body>
+		<div class="topnav">
+			<div class="search-container">
+	      			<input id="searchText" type="text" placeholder="Search..." title="search">
+	      			<button onclick="searchNow()" type="submit"><i class="fa fa-search"></i></button>
+			</div>
+		</div>
+		<div id="tempBG">
+			<ul>
+				<p class="links_header">Agile
+					<ul>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/agile/Code_Smell.md">Code Smell</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/agile/Dont_Repeat_Yourself.md">Don't Repeat Yourself</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/agile/MoSCoW.md">MoSCoW</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/agile/Software_Development_Life_Cycle.md">Software Development Life Cycle</a></li>
+					</ul>
+				</p>
+				<p class="links_header">Cloud Development
+					<ul>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Cloud_development/Azure.md">Azure</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Cloud_development/Firebase.md">Firebase</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Cloud_development/Heroku.md">Heroku</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Cloud_development/REST_API.md">REST API</a></li>
+					</ul>
+				</p>
+				<p class="links_header">Computation
+					<ul>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/computation/Amdahl's_law.md">Amdahl's Law</a></li>
+					</ul>
+				</p>
+				<p class="links_header">Databases
+					<ul>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/databases/database_keys.md">Database Keys</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/databases/mongodb.md">MongoDB</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/databases/mysql.md">mySQL</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/databases/SQLAlchemy_intro.md">SQLAlchemy intro</a></li>
+					</ul>
+				</p>
+				<p class="links_header">Data Science
+					<ul>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/Hidden_Markov_Model.md">Hidden Markov Model</a></li>
+						<p class="links_header">Data Visualization
+							<ul>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/data_visualization/D3.md">D3</a></li>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/data_visualization/DataHero.md">DataHero</a></li>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/data_visualization/plotly.md">plotly</a></li>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/data_visualization/Tableau.md">Tableau</a></li>
+							</ul>
+						</p>
+						<p class="links_header">Deep Learning
+							<ul>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/deep_learning/ANN.md">ANN</a></li>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/deep_learning/Autoencoder.md">Autoencoder</a></li>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/deep_learning/CNN.md">CNN</a></li>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/deep_learning/LSTM.md">LSTM</a></li>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/deep_learning/RNN.md">RNN</a></li>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/deep_learning/TensorFlow.md">TensorFlow</a></li>
+							</ul>
+						</p>
+						<p class="links_header">Machine Learning
+							<ul>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/machine_learning/Regression.md">Regression</a></li>
+								<li>Classification Algorithms
+									<ul>
+										<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/machine_learning/classification_algorithms/Decision_Tree_Classifier.md">Decision Tree Classifier</a></li>
+										<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/machine_learning/classification_algorithms/Logistic_Regression.md">Logistic Regression</a></li>
+										<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/machine_learning/classification_algorithms/Naive_Bayes_Classifier.md">Naive Bayes Classifier</a></li>
+										<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/machine_learning/classification_algorithms/Neural_Network.md">Neural Network</a></li>
+										<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/machine_learning/classification_algorithms/Random_Forest.md">Random Forest</a></li>
+										<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/machine_learning/classification_algorithms/SVM.md">SVM</a></li>
+									</ul>
+								</li>
+							</ul>
+						</p>
+						<p class="links_header">Miscellaneous
+							<ul>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/miscellaneous/Hadoop.md">Hadoop</a></li>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/miscellaneous/Spark.md">Spark</a></li>
+							</ul>
+						</p>
+						<p class="links_header">Natural Language Processing
+							<ul>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/natural_language_processing/machine_translation.md">Machine Translation</a></li>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/natural_language_processing/morphology.md">Morphology</a></li>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/natural_language_processing/regular_expression.md">Regular Expression</a></li>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/natural_language_processing/semantic_parsing.md">Semantic parsing</a></li>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/natural_language_processing/sentiment_analysis.md">Sentiment analysis</a></li>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/natural_language_processing/stemming_lemmatization.md">Stemming lemmatization</a></li>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/natural_language_processing/synctatic_parsing.md">Synctatic parsing</a></li>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/natural_language_processing/Text_Classification.md">Text classification</a></li>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/natural_language_processing/text_summarization.md">Text summarization</a></li>
+							</ul>
+						</p>
+					</ul>
+				</p>
+				<p class="links_header">DevOps
+					<ul>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/DevOps/Ansible.md">Ansible</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/DevOps/docker_intro.md">Docker intro</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/DevOps/grunt.md">Grunt</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/DevOps/kubernetes.md">Kubernetes</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/DevOps/Laravel.md">Laravel</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/DevOps/Package_Manager.md">Package Manager</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/DevOps/Vagrant.md">Vagrant</a></li>
+					</ul>
+				</p>
+				<p class="links_header">Game Development
+					<ul>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Game_Development/Blender.md">Blender</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Game_Development/Godot.md">Godot</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Game_Development/Unity.md">Unity</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Game_Development/Unreal.md">Unreal</a></li>
+					</ul>
+				</p>
+				<p class="links_header">Issue Tracking
+					<ul>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/issue_tracking/Bugzilla.md">Bugzilla</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/issue_tracking/Jira.md">Jira</a></li>
+					</ul>
+				</p>
+				<p class="links_header">Logic
+					<ul>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/logic/Monty_Hall_Problem.md">Monty Hall Problem</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/logic/The_Dining_Philosophers_Problem.md">The Dining Philosophers Problem</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/logic/The_Hardest_Logic_Puzzle_Ever.md">The Hardest Logic Puzzle Ever</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/logic/Turing_Test.md">Turing Test</a></li>
+					</ul>
+				</p>
+				<p class="links_header">Networking
+					<ul>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Networking/Blockchain.md">Blockchain</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Networking/IP_addresses.md">IP Addresses</a></li>
+					</ul>
+				</p>
+				<p class="links_header">Open Source Software
+					<ul>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Open_Source_Software/OpenSourceSoftware.md">Open Source Software</a></li>
+					</ul>
+				</p>
+				<p class="links_header">Programming Paradigm
+					<ul>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Programming_Paradigm/Functional_Programming.md">Functional Programming</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Programming_Paradigm/parallelcomputing.md">Parallel Computing</a></li>
+						<p class="links_header">Object Oriented Programming
+							<ul>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Programming_Paradigm/OOP/Prototypal_Inheritance.md">Prototypal Inheritance</a></li>
+							</ul>
+						</p>
+					</ul>
+				</p>
+				<p class="links_header">Python
+					<ul>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/python/django.md">Django</a></li>
+					</ul>
+				</p>
+				<p class="links_header">Security
+					<ul>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Security/honeypot.md">Honeypot</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Security/RSA.md">RSA</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Security/Steganography.md">Steganography</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Security/Wireshark.md">Wireshark</a></li>
+					</ul>
+				</p>
+				<p class="links_header">Starters
+					<ul>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Starters/Vanilla_js.md">Vanilla js</a></li>
+					</ul>
+				</p>
+				<p class="links_header">UI Design
+					<ul>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/UI_design/vue_js.md">Vue js</a></li>
+					</ul>
+				</p>
+				<p class="links_header">UX design
+					<ul>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/UX_design/An-Introduction-To-AntiPatterns.md">An Introduction To AntiPatterns</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/UX_design/Fitts'_Law.md">Fitts' Law</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/UX_design/Hick's_Law.md">Hick's Law</a></li>
+					</ul>
+				</p>
+				<p class="links_header">Version Control
+					<ul>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Version_Control/Git.md">Git</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Version_Control/GitHub.md">GitHub</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Version_Control/GitHubSSH.md">GitHubSSH</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Version_Control/Mercurial.md">Mercurial</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Version_Control/svn.md">SVN</a></li>
+					</ul>
+				</p>
+				<p class="links_header">Visual Design
+					<ul>
+						<p class="links_header">Architectural Pattern
+							<ul>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Visual_design/Architectural_Pattern/MVC.md">MVC</a></li>
+							</ul>
+						</p>
+						<p class="links_header">Color Theory
+							<ul>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Visual_design/color_theory/color_theory.md">Color Theory</a></li>
+							</ul>
+						</p>
+						<p class="links_header">Design Language
+							<ul>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Visual_design/Design_Language/Material_Design.md">Material Design</a></li>
+							</ul>
+						</p>
+						<p class="links_header">Wireframing
+							<ul>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Visual_design/Wireframing/Justinmind.md">Justinmind</a></li>
+								<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Visual_design/Wireframing/Wireframing.md">Wireframing</a></li>
+							</ul>
+						</p>
+					</ul>
+				</p>
+				<p class="links_header">Web Containers
+					<ul>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Web_Containers/Apache_Tomcat.md">Apache Tomcat</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Web_Containers/Progressive_Web_Apps.md">Progressive Web Apps</a></li>
+					</ul>
+				</p>
+				<p class="links_header">Web Development
+					<ul>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/web_development/NodeJS.md">Node js</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/web_development/Reactjs.md">React js</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/web_development/WebAssembly.md">WebAssembly</a></li>
+					</ul>
+				</p>
+				<p class="links_header">Web Frameworks
+					<ul>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Web_Frameworks/Angular.md">Angular</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Web_Frameworks/CakePHP.md">CakePHP</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Web_Frameworks/Drupal.md">Drupal</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Web_Frameworks/Flask.md">Flask</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Web_Frameworks/Gitlab,Flask,Heroku.md">Gitlab, Flask, Heroku</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Web_Frameworks/Grails.md">Grails</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Web_Frameworks/Next-js.md">Next js</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Web_Frameworks/Phalcon.md">Phalcon</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Web_Frameworks/Phoenix.md">Phoenix</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Web_Frameworks/Pyramid.md">Pyramid</a></li>
+						<li><a class="l_elements" href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Web_Frameworks/Semantic_Web.md">Semantic Web</a></li>
+					</ul>
+				</p>
+			</ul>
+		</div>
+		<h1 class="main_header">First-timers-guide</h1>
+		<h2 class="collection">A collection of guides for and by first-timers</h2>
+		<h3 class="contents">Contents</h3>
+		<ul>
+			<li><a href="index.html#what">What</a></li>
+			<li><a href="index.html#how">How</a></li>
+			<li><a href="index.html#contributing">Contributing</a></li>
+			<li><a href="index.html#collaboration">Collaboration</a></li>
+			<li><a href="index.html#faqs">FAQs</a></li>
+			<li><a href="index.html#license">License</a></li>
+		</ul>
+		<h3 class="sub-headings">What?</h3>
+		<p>First-timers guide is a guide to encourage more people to venture into open-source. The word guide can be a little misunderstood here; it means articles written in MarkDown format about various topics in Computer Science ranging from time complexity to Word2Vec. Anyone, literally <strong>anyone</strong> can contribute to the repository</p>
+		<h3 class="sub-headings">How?</h3>
+		<p>It's quite simple. Just write an article in MarkDown format about a topic you know; the article should be between 100-150 words and easy to read for a newbie. And then pull a request to start.</p>
+		<h3 class="sub-headings">Contributing</h3>
+		<ol style="list-style-type: decimal">
+			<li>Fork the project</li>
+			<li>Add your article</li>
+			<li>Follow the rules given <a href="https://github.com/the-ethan-hunt/first-timers-guide/blob/master/CONTRIBUTING.md">here</a></li>
+			<li>Mission Accomplished!</li>
+		</ol>
+		<p>To see how a perfect pull request is made, see <a href="https://github.com/the-ethan-hunt/first-timers-guide/pull/66">this pull request</a>.</p>
+		<h3 class="collaboration">Collaboration</h3>
+		<p>First-timers-guide will be thrilled to participate or collaborate with any society or group that promotes open-source anywhere in the world. And we would be really happy to help you guys- anything for open-source!</p>
+		<ul>
+			<li>We collaborated with <a href="https://www.ducic.ac.in/">Cluster Innovation Centre</a> for its Month of Code program in February 2018</li>
+		</ul>
+		<p>For collaborating drop us a <a href="mailto:dhruvgirishapte@gmail.com">mail</a> at or make an issue in <a href="https://github.com/the-ethan-hunt/first-timers-guide">this repository</a>.</p>
+		<h3 class="faqs">FAQs</h3>
+		<p>Q: Can I submit a code file in any language?</p>
+		<p>A: No. If it is <em>absolutely essential</em> you may talk about it to the owner and he will decide.</p>
+		<p>Q: I don't know a language. Can I contribute?</p>
+		<p>A: Absolutely. You don't require knowledge of any particular language. However, you must know about the article you are contributing.</p>
+		<h3 class="license">License</h3>
+		<p>The MIT License 2017 - <a href="http://github.com/the-ethan-hunt/">Dhruv Apte</a>.</p>
+	</body>
+</html>
