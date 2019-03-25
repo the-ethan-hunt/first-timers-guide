@@ -1,0 +1,7 @@
+# Dependency Inversion Principle
+The Dependency Inversion Principle states that high level modules should not depend on low level modules; both should depend on abstractions. In addition, abstractions should not depend on details, details should depend upon abstractions. This concept is difficult to explain in 150 words, but I'll do my best. Programmers typically make the mistake of tightly coupling their classes together. For example, clicking a button fires an event, which creates a new instance of a class in which a method is called, which in turn creates a new instance of another class which has a method that calls a database. All entities involved- the UI,classes, and methods- are dependant on the database, either directly or transitively. This makes maintenance difficult, since coupling will only increase as more features are added. 
+
+However, by taking the same chain of events and instead calling to a method of an interface, we can eliminate coupling because we don't know what object we are calling. All that we know is that there is something out there that implements that interface's method. The new keyword isn't anywhere to be found. This is a technique called dependency injection. By eliminating this dependency, we can easily swap and replace different elements as we see fit. The referenced website below has links that go into greater detail and examples. 
+
+## References
+- [DevIQ] (https://deviq.com/dependency-inversion-principle/)
