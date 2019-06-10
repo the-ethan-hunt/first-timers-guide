@@ -31,7 +31,7 @@ This is the basic structure of a project that uses Git for version control:
 * `git pull`: Fetch and merge changes made on the remote repo to your working directory.
 
 # References
-More information on Git repository's:
+More information on Git:
 * [Git](https://git-scm.com/docs)
 * [GitHub's cheat sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 
