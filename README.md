@@ -149,6 +149,7 @@ You may want to take a look at other articles too:
         - [Prototypal Inheritance](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Programming_Paradigm/OOP/Prototypal_Inheritance.md)
 - Python
     - [Django](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/python/django.md)
+    - [Read Free eBooks Online](http://inventwithpython.com/#automate)
 - Security
     - [Honeypot](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Security/honeypot.md)
     - [RSA](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Security/RSA.md)
