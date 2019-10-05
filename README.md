@@ -7,8 +7,6 @@
 [![Forks](https://img.shields.io/github/forks/the-ethan-hunt/first-timers-guide.svg)](https://github.com/the-ethan-hunt/first-timers-guide/network)
 [![Stargazers](https://img.shields.io/github/stars/the-ethan-hunt/first-timers-guide.svg)](https://github.com/the-ethan-hunt/first-timers-guide/stargazers)
 
-[![Gitter chat](https://badges.gitter.im/first-timers-guide/Lobby.png)](https://gitter.im/first-timers-guide/Lobby)
-
 
 ### Contents
 
