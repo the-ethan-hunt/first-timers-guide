@@ -15,7 +15,7 @@ issue itself.
 written it by yourself or copied it. Note: this is not the aim of this project.
 - If an article is found to be copied, the maintainer will comment on it as 'copied'.
 - While writing the PR please follow the PR template guidelines
-- The maintainer will review your PR within 2 days. **Do not review other contributor's PR unless said so by the maintainer
+- The maintainer will review your PR within a week. **Do not review other contributor's PR unless said so by the maintainer
 himself**.
 
 **HAPPY CONTRIBUTING** :smile:
