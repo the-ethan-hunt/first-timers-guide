@@ -3,13 +3,13 @@ NOTE:
 
 ## Did you read the instructions in the [README](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/README.md)?
 
-> Y/N
+> Y
 
 ## Have you read the instructions in [CONTRIBUTING](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/CONTRIBUTING.md)?
 
-> Y/N
+> Y
 
 ## Have you written this article by yourself? Have you taken inspiration from anywhere and then written it in your words?
 
-> [Write here. Be specific.]
+> I have taken inspiration from my senior MANAN GOEL and I have written this file Git and PR which is about your first PR as a beginner.
 
