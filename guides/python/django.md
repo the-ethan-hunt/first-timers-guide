@@ -24,7 +24,7 @@ Django is fast,fully loaded,secure,scalable(can handle large increase in users,t
 
 [How To Tango With Django 1.7](http://www.tangowithdjango.com/book17/)
 
-[Mastering Django for Django 1.8](https://mastering-django.thinkific.com/)
+[Mastering Django for Django 1.8 (paid)](https://mastering-django.thinkific.com/)
 
 [DJANGO INSTALLATION GUIDE](https://docs.djangoproject.com/en/2.0/intro/install/)
 
