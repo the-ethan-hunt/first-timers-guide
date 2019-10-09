@@ -8,7 +8,7 @@
 ***ZEIT Now*** also allows developers to set up their projects to their custom domain (or a free .now.sh suffixed URL) along with free automatic SSL.
 
 ## Zero Config
-***ZEIT Now*** integrate directly with GitHub/GitLab as well. It enables developers to host websites and web applications that deploy upon every push. At the same time, it scales automatically, requires no orchestrate, operate and monitor, all with no configuration to the server. It also provides developers with a GUI or command-line to quickly spin up their projects on ***ZEIT*** platform. 
+***ZEIT Now*** integrate directly with GitHub/GitLab as well. It allows developers to host static websites and web applications that deploy upon every push. At the same time, it scales automatically, requires no orchestrate, operate and monitor, all with no configuration to the server. It also provides developers with a GUI or command-line to quickly spin up their projects on ***ZEIT*** platform. 
 
 ## What can I deploy?
 - Any web framework/frontend stack of your choice
