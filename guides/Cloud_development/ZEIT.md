@@ -15,19 +15,17 @@
 
 
 ## What can I deploy?
-- Any web framework/frontend stack of your choice
+- Any web framework/frontend stack of your choice.
 - API endpoints that query databases or web APIs that return dynamic data.
 
 ```
-{ 
-    ####Examples:
+Examples:
     - Node.js
     - Docker
     - Next.js
     - Gatsby
     - React, Vue, Angular
     - Go APIs
-}
 ```
 
 
