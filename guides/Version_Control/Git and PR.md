@@ -12,3 +12,12 @@ we follow a particular protocol in using git
     We then make our desirable changes and then we 'commit' it .
     then we push the file back to our remote server using 'git push origin master',where origin is repository name and master is the master branch.
     Then we send a pull request to the owner of the project. 
+
+SLOC
+git config –global user.email “[email address]”
+git config –global user.name “[name]”
+git clone https://github.com/the-ethan-hunt/first-timers-guide.git
+git add "filename"
+git commit -m “[ Type in the commit message]”  
+git push
+
