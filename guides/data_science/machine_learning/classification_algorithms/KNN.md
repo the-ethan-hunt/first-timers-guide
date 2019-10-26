@@ -31,9 +31,8 @@ The best choice of k depends upon the data; generally, larger values of k reduce
 ![](https://image.slidesharecdn.com/nearestneighboralgorithmzaffarahmed-13089169751858-phpapp02-110624070327-phpapp02/95/nearest-neighbor-algorithm-zaffar-ahmed-4-728.jpg?cb=1308899040)
 
 
-#Further Reading:
+##Further Reading:
 
 [1]: https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
 [2]: https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/
 
-##Further Reading:
