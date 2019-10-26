@@ -71,6 +71,7 @@ You may want to take a look at other articles too:
     - [Firebase](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Cloud_development/Firebase.md)
     - [Heroku](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Cloud_development/Heroku.md)
     - [REST API](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Cloud_development/REST_API.md)
+    - [Google Cloud Platform](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Cloud_development/GCP.md)
 - Computation
     - [Amdahl's law](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/computation/Amdahl's_law.md)
 - Databases
