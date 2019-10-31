@@ -9,7 +9,9 @@ In order to write web applications in python directly basic requirements include
 
 3.SQL Interface
 
-4.Template
+4.Urls & Template
+
+5.Migrations
 
 On the other hand Django includes all of the above mention features hence it becomes easy for one to write web application.One can focus on the designing part and writing of the web application without taking care of the above features.Various sites that use django includes Pinterest Public Broadcasting Service, Instagram, Mozilla, The Washington Times, Disqus, Bitbucket and Nextdoor.
 
