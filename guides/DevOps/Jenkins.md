@@ -1,5 +1,5 @@
 # What is Continuous Integration
-Is a set of pratices to allow a system to be compiled,built and tested, development in independent environment.
+Is a set of practices to allow a system to be compiled,built and tested, development in independent environment.
 
 # Overview
 Jenkins is a Continuous Integration web application used to test and create artifacts of a software project.
