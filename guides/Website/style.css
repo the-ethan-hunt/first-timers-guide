@@ -1,0 +1,54 @@
+body
+{
+margin-top: 80px;
+text-align: center;
+color:black;
+font-family: 'Lucida Sans';
+background: url(images/bg.png);
+background-size: cover;
+background-position: center;
+}
+#intro 
+{
+    position: center;
+    left: 300px;
+    top: 500px;
+    font-family: 'cursive';
+    font-size:40px;
+    padding: 150px;
+    color: f9f913;
+  }
+  #search
+   {
+      position: center;
+      left: 300px;
+      top: 50px;
+      width: 500px;
+      padding: 10px;
+      background-color:peachpuff;
+  }
+  #submit
+  {
+      position: static;
+      left: 300px;
+      top: 100px;
+      cursor: pointer;
+      background-color: grey;
+  }
+  .btn {
+      position: relative;
+    background-color: DodgerBlue;
+    border:black; 
+    color: white; 
+    padding: 12px 16px; 
+    font-size: 16px;
+    cursor: pointer; 
+}   
+
+.btn:hover {
+    background-color:grey;
+}
+h1{
+    color: #c52d0c;
+    font-size: 60px;
+}
