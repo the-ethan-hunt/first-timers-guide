@@ -12,4 +12,3 @@ NOTE:
 ## Have you written this article by yourself? Have you taken inspiration from anywhere and then written it in your words?
 
 > [Write here. Be specific.]
-
