@@ -13,6 +13,12 @@ Production Honeypots are used in corporate world in order to collect information
 - Research Honeypots
 Research Honeypots are used by non profit organisations for the purpose of researching the motives of hackers.
 
+## TYPES OF HONEYPOT DEPLOYMENTS
+
+* Pure honeypots
+* Low-interaction honeypots
+* High-interaction honeypots
+
 ## SETUP YOUR OWN HONEYPOT:
 Upon exploring the world of honeypots we come across a good number of varities which includes Honeyd,kippo and Dionaea.Configuring and installing each of them would be pretty hectic but honeydrive configurs and installs all these honaypots,hence it is discussed below.<br>
 HONEYDRIVE:THE HONEYPOT PARADISE
