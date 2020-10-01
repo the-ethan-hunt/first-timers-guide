@@ -5,25 +5,23 @@ Flask is a web application framework written in Python, meaning it is a third-pa
 It makes the process of designing a web application simpler. Flask lets us focus on what the users are requesting and what sort of response to give back.
  
 
-You probably heard Django when looking up Flask.Both are web frameworks written in Python.
+You probably heard Django while looking for Flask.Both are web frameworks written in Python.
 Django is a full-stack web framework for Python, whereas Flask is a lightweight and extensible Python web framework
 
 # 2: Why Flask?
-Just like how people get confused with which Python version to start with, Django vs Flask is another age-old debate. Though people say Flask is simple and easy to get started with while Django is heavy for building web applications, there is another important reason why you should choose Flask over Django.
-
-We, as developers in the era of the cloud, are moving away from monolithic applications. With microservices architecture in place, running multiple Django servers is going to make your services heavy because of all the built-in apps it comes with.
+ Flask is simple and easy to get started with while Django is heavy for building web applications
 
 # 3: Flask Structure
 Instead of cramming all your code into one place, Flask helps you organize:
-- (1) your logic
-- (2) design
-- (3) database into separate files.
+- **(1) logic**
+- **(2) design**
+- **(3) database into separate files.**
 
-**LOGIC**: ‘main.py’ imports the Flask module, creates a web server, creates an instance of the Flask class — your new web application! This is where you write all your “logical” code structuring your web app.
+**LOGIC**: ‘main.py’ imports the Flask module, creates a web server, creates an instance of the Flask class — in which you write all your “logical” code structuring your web app.
 
-**DESIGN**: The Flask Framework looks for HTML files in a folder called templates. Put all your HTML files in there. In static folder, store CSS, JavaScript, images, and other files.
+**DESIGN**: The Flask Framework looks for HTML files in a folder called templates for designs. 
 
-**DATABASE**: Flask does not support databases natively, but there are a number of Flask extensions such as Flask-SQLAlchemy.
+**DATABASE**: Flask does not support databases natively, but there are a number of Flask extensions such as Flask-SQLAlchemy,etc.
 
 
 ## RESOURCES TO LEARN Flask:
