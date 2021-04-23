@@ -7,6 +7,8 @@ Vanilla JavaScript is suitable for simple web applications or [static websites](
 In order to use JavaScript, you'll need to create a HTML file, and include a script tag in the body of your document:
 `<script src="path/to/vanilla.js"></script>`
 
+*As a sidenote, it is good practice to place the script tag before the closing body tag, this way the HTML can render before any Javascript code is run and hopefully avoid any problems!*
+
 **Your HTML file should look a little something like this:**
 ```html
 <!doctype html>
