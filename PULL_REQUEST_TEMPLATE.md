@@ -1,4 +1,5 @@
-> NOTE: Please fill out the template below 
+NOTE:
+- Please fill out the template below 
 
 ## Did you read the instructions in the [README](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/README.md)?
 
@@ -10,5 +11,5 @@
 
 ## Have you written this article by yourself? Have you taken inspiration from anywhere and then written it in your words?
 
-> I wrote the article myself and was inspired by [real python](https://realpython.com/django-setup/) and [djangoproject](https://www.djangoproject.com/start/)
+> I wrote the article myself and was inspired by [real python](https://realpython.com/django-setup/) and [djangoproject](https://www.djangoproject.com/start/), I have used my own words for the rest of the article
 
