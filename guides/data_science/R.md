@@ -1,0 +1,5 @@
+
+#The programming language R was named after its creators, Ross Ihaka and Robert Gentleman. Created in 1993 to commemorate both of its creators sharing this letter as the first of their name, R is mainly used for statistics, data analysis and machine learning. The official software is open-source and free, which makes it popular among academics, government bodies and other industries. Some tools can be easily paired with R to create scripts and straightforward visualizations, such as RStudio. Other packages available can also increase R’s capabilities, like knitr and Sweave, allowing the user to integrate R with LaTeX, for instance. Some companies even provide paid extensions with commercial support to the famous programming language. 
+
+#R is also considered an alternative to other data science softwares, like Tableau, PowerBI and SAS. Although considered a more sophisticated tool because of its procedural nature, R is often preferred as mentioned earlier due to its open-source availability. 
+
