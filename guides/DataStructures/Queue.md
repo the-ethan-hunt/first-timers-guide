@@ -4,12 +4,12 @@ Abstract data type which only allows to insert elements at the end / bottom. In 
 
 | Operation / Method / Function           | Description                                                                                                                             |
 | ----------------------------------------| --------------------------------------------------------------------------------------------------------------------------------------- |
-| enqueue / offer                         | Inserts an element at the end of the                                                                                                    |
-| dequeue / poll                          | Reads & removes the first / foremost / oldest                                                                                           |
-| peek                                    | Reads most upper element (like enqueue +                                                                                                |
-| isEmpty                                 | Checks if queue is                                                                                                                      |
-| isFull                                  | Checks if queue is full (for queues with fixed                                                                                          |
-| removeAll                               | Removes all                                                                                                                             |
+| enqueue / offer                         | Inserts an element at the end of the queue                                                                                              |
+| dequeue / poll                          | Reads & removes the first / foremost / oldest element                                                                                   |
+| peek                                    | Reads most upper element (like enqueue + dequeue)                                                                                       |
+| isEmpty                                 | Checks if queue is empty                                                                                                                |
+| isFull                                  | Checks if queue is full (for queues with fixed size)                                                                                    |
+| removeAll                               | Removes all elements                                                                                                                    |
 
 ## Implementation
 
