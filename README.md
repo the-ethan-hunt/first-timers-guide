@@ -137,7 +137,7 @@ You may want to take a look at other articles too:
     - [Turing Test](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/logic/Turing_Test.md)
 - Networking
     - [Blockchain](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Networking/Blockchain.md)
-    - [IP Addresses](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Networking/IP_addresses.md)
+    - [IP Addresses](https://github.com/vishal-phoenix/first-timers-guide/blob/vishal-phoenix-IP_addresses_link_correct/guides/Networking/IP_addresses.md)
 - Open Source Software
     - [Open Source Software](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Open_Source_Software/OpenSourceSoftware.md)
 - Programming Paradigm
