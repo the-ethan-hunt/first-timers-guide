@@ -1,4 +1,4 @@
-# Unveiling the Basics and Real-World Applications of Machine Learning
+## Unveiling the Basics and Real-World Applications of Machine Learning
 
 Welcome to the fascinating realm of machine learning! In this beginner’s guide, we’ll explore the core concepts, essential processes, and real-world applications of machine learning, along with popular algorithms driving its magic.
 
